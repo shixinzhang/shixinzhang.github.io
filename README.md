@@ -1,6 +1,6 @@
 # 张拭心的博客
 
-我的个人博客：<http://shixinzhang.top>。
+我的个人博客：<https://shixinzhang.top>。
 
 ## 概览
 
@@ -17,7 +17,6 @@
 
 **[在线预览 &rarr;](http://shixinzhang.top)**
 
-![screenshot home](http://mazhuang.org/assets/images/screenshots/home.png)
 
 ## Fork 指南
 
