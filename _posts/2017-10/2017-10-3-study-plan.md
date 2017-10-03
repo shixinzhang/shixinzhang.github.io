@@ -7,8 +7,6 @@ keywords: Android, Java,进阶,学习目标
 ---
 
 
-[TOC]
-
 >原文地址：http://blog.csdn.net/u011240877
   
 为了方便读者阅读以及自己回顾，总结写过的文章和一些想要写的文章目录如下：
