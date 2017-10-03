@@ -6,6 +6,10 @@ description: Internet 极大地方便了我们的生活，也极大地吞噬了�
 keywords: internet, 断网
 ---
 
+> 本文转自：http://mazhuang.org/
+
+
+
 「壮哥，你那能上网吗？」
 
 「不能。」

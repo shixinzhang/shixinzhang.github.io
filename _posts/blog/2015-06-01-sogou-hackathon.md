@@ -5,6 +5,8 @@ categories: Blog
 description: 和同事组队参加了搜狗首届黑客马拉松，一些个人总结。
 keywords: Hackathon
 ---
+> 本文转自：http://mazhuang.org/
+
 
 ![首届黑客马拉松](/images/blog/hackathon.jpg)
 
@@ -55,3 +57,4 @@ keywords: Hackathon
    * 定期沟通了解小伙伴的进展，更新任务完成情况列表。
 
 总之，离 CTO 的水平还很遥远啊~骚年需努力！
+ 

@@ -5,6 +5,9 @@ categories: Android
 description: am start 命令有时并不会乖乖如我们所愿，这时候我们需要知对策并知其所以然。
 keywords: am start, user, adb, INTERACT_ACROSS_USERS_FULL
 ---
+> 本文转自：http://mazhuang.org/
+
+
 
 本文的讨论围绕一个 `java.lang.SecurityException` 展开，异常的关键词是权限 `android.permission.INTERACT_ACROSS_USERS_FULL`。
 

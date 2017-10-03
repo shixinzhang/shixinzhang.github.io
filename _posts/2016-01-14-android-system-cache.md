@@ -5,6 +5,9 @@ categories: Android
 description: Android 系统缓存从原理探索到实现。
 keywords: Android, Cache, Cleaner, System Cache
 ---
+> 本文转自：http://mazhuang.org/
+
+
 
 本文记录的是我对 Android 的「系统缓存」及其扫描和清理方法的探索与理解。
 

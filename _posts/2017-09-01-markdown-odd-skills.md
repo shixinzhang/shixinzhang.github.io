@@ -5,6 +5,9 @@ categories: Markdown
 description: 介绍 Markdown 的一些高级用法。
 keywords: Markdown, 奇技淫巧
 ---
+> 本文转自：http://mazhuang.org/
+
+
 
 自从几年前开始在 GitHub 玩耍，接触到 Markdown 之后，就一发不可收拾，在各种文档编辑上，有条件用 Markdown 的尽量用，不能用的创造条件也要用——README、博客、公众号、接口文档等等全都是，比如当前这篇文章就是用 Markdown 编辑而成。
 
