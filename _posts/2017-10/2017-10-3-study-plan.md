@@ -14,7 +14,7 @@ keywords: Android, Java,进阶,学习目标
 为了方便读者阅读以及自己回顾，总结写过的文章和一些想要写的文章目录如下：
 
 
-#1.JavaSE
+# 1.JavaSE
 
 **这个人的 JavaSE 专栏不错：http://www.cnblogs.com/chenssy/category/525010.html**
 
@@ -107,7 +107,7 @@ keywords: Android, Java,进阶,学习目标
 - Optional
 - Stream
 
-#2.数据结构与算法
+# 2.数据结构与算法
 
 ## 数据结构：
 
@@ -133,7 +133,7 @@ keywords: Android, Java,进阶,学习目标
 >常见排序算法的思路、实现与效率对比
 >常见查找算法的思路与实现
 
-#3.设计模式
+# 3.设计模式
 
 - [ 设计模式六大原则： 一个萝卜一个坑 -- 单一职责原则](http://blog.csdn.net/u011240877/article/details/52177033)
 - [ 设计模式六大原则： 一国两制 -- 开放封闭原则](http://blog.csdn.net/u011240877/article/details/52187631)
@@ -159,7 +159,7 @@ keywords: Android, Java,进阶,学习目标
 - 外观模式
 - [ 23 种经典设计模式 UML 类图汇总](http://blog.csdn.net/u011240877/article/details/45381071)
 
-#4.架构设计
+# 4.架构设计
 
 https://github.com/googlesamples/android-architecture
 https://github.com/android10/Android-CleanArchitecture
@@ -187,7 +187,7 @@ https://github.com/android10/Android-CleanArchitecture
 - 日志管理上传
 - 推送
 
-#5.数据通信与网络
+# 5.数据通信与网络
 
 ## 理论知识
 
@@ -241,7 +241,7 @@ https://github.com/android10/Android-CleanArchitecture
 - Android 多线程：AsyncTask
 
 
-#7.Android
+# 7.Android
 
 ## Android 基础问题：
 
@@ -361,7 +361,7 @@ ContentProvider 细节，什么时候使用
 
 - [ 了解 Android Studio Live Templates , 加快开发的“咒语”](http://blog.csdn.net/u011240877/article/details/52198958)
 
-#8.性能优化
+# 8.性能优化
 
 - [ Android 性能优化：使用 Lint 优化代码、去除多余资源](http://blog.csdn.net/u011240877/article/details/54141714)
 - [ Android 性能优化：使用 TraceView 找到卡顿的元凶](http://blog.csdn.net/u011240877/article/details/54347396)
@@ -371,7 +371,7 @@ ContentProvider 细节，什么时候使用
 - Android 性能优化：耗电优化
 
 
-#9.Hybrid
+# 9.Hybrid
 
 > Hybrid 框架设计 ?
 
@@ -381,7 +381,7 @@ ContentProvider 细节，什么时候使用
 - Hybrid WebView 预加载
 - 异常页面？
 
-#10.跨平台
+# 10.跨平台
 
 ## React Native :
 
@@ -395,7 +395,7 @@ ContentProvider 细节，什么时候使用
 - Weex 体验踩坑记录
 - Weex Android 源码浅析
 
-#11.前端
+# 11.前端
 
 [ npm 与 package.json 快速入门](http://blog.csdn.net/u011240877/article/details/76582670)
 
@@ -412,7 +412,7 @@ ECMAScript 2015:
 
 Node.js
 
-#12.虚拟机
+# 12.虚拟机
 
 JVM
 
@@ -438,19 +438,19 @@ ART
 
 Dalvik VM, ART 和 JVM 的区别
 
-#13.Git
+# 13.Git
 
 - [ git 对比两个分支差异](http://blog.csdn.net/u011240877/article/details/52586664)
 - [ git pull --rebase 做了什么？ 以及 Cannot rebase: You have unstaged changes 解决办法](http://blog.csdn.net/u011240877/article/details/52668807)
 
-#14.Gradle
+# 14.Gradle
 
 - [ Gradle for Android 系列：为什么 Gradle 这么火](http://blog.csdn.net/u011240877/article/details/53572264)
 - [ Gradle for Android 系列：初识 Gradle 文件](http://blog.csdn.net/u011240877/article/details/53798052)
 - Gradle for Android 系列：Groovy 
 - Gradle for Android 系列：Android Gradle Plugin 开发
 
-#15.Android 测试
+# 15.Android 测试
 
 >官方 todo-mvp 项目中为了进行UI测试引入了Espresso，为了对业务层进行单元测试引入了junit，为了生成测试mock对象引入了mockito，为了支撑mockito又引入了dexmaker，hamcrest的引入使得测试代码的匹配更接近自然语言，可读性更高，更加灵活。
 
@@ -461,7 +461,7 @@ Dalvik VM, ART 和 JVM 的区别
 - com.android.support.test:testing-support-lib
 - org.powermock:powermock
 
-#16.代码质量
+# 16.代码质量
 
 Effective Java 读书笔记
 
@@ -469,7 +469,7 @@ Effective Java 读书笔记
 
 代码清洁之道读书笔记
 
-#17.一些时兴的东西
+# 17.一些时兴的东西
 
 ## RxJava
 
@@ -497,7 +497,7 @@ Effective Java 读书笔记
 
 ### Kotlin
 
-#18.翻译的一些文章
+# 18.翻译的一些文章
 
 职业发展：
 
@@ -516,7 +516,7 @@ Effective Java 读书笔记
 
 - [移动应用设计新趋势](http://blog.csdn.net/u011240877/article/details/52149753)
 
-#19.其他 
+# 19.其他 
 
 - [ 正则表达式简介及学习网址、测试网址](http://blog.csdn.net/u011240877/article/details/47165629)
 - [@SuppressWarnings 使用及支持的参数](http://blog.csdn.net/u011240877/article/details/72520836)

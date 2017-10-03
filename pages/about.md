@@ -1,18 +1,22 @@
 ---
 layout: page
 title: About
-description: 打码改变世界
-keywords: Zhuang Ma, 马壮
+description: 关于张拭心
+keywords: 张拭心, shixinzhang, about me
 comments: true
 menu: 关于
 permalink: /about/
 ---
 
-我是马壮，码而生，码而立。
+我是张拭心，“拭心” 意为：时常拂拭内心，避免误入歧途。
 
-仰慕「优雅编码的艺术」。
+目前为安卓开发者，业余也学点前端。
 
-坚信熟能生巧，努力改变人生。
+技术文章目前主要发表在 CSDN：http://blog.csdn.net/u011240877
+
+生活相关发表在 简书：http://www.jianshu.com/u/8e8ad16d1fcf
+
+本站用作备份。
 
 ## 联系
 
