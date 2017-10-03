@@ -1,3 +1,11 @@
+---
+layout: post
+title: 我的个人博客启动了
+categories: Plan
+description: 新的开始
+keywords: Android, 博客
+---
+
 2017年10月3日星期二
 
 昨天晚上到今天，差不多一天时间把个人博客又鼓捣起来了。
