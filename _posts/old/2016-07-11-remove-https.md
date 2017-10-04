@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Kloudsec 挂了，GitHub Pages 去 HTTPS 化
-categories: 转载
+categories: others
 description: 收到 Kloudsec 将停止服务的消息，决定将 GitHub Pages 去 HTTPS 化。
 keywords: Kloudsec, GitHub Pages
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: [转载]Java 对象释放与 finalize 方法
-categories: 转载
+categories: others
 description: 关于 Java 对象释放的疑惑解答，以及 finalize 方法的相关知识。
 keywords: java, finalize, release
 ---
