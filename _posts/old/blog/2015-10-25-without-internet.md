@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 断网之后
-categories: Blog
+categories: 转载
 description: Internet 极大地方便了我们的生活，也极大地吞噬了我们的生活。
 keywords: internet, 断网
 ---

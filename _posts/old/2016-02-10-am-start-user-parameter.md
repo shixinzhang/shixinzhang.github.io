@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 从 am start 的 --user 参数说到 Android 多用户
-categories: Android
+categories: 转载
 description: am start 命令有时并不会乖乖如我们所愿，这时候我们需要知对策并知其所以然。
 keywords: am start, user, adb, INTERACT_ACROSS_USERS_FULL
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 黑客马拉松参赛总结
-categories: Blog
+categories: 转载
 description: 和同事组队参加了搜狗首届黑客马拉松，一些个人总结。
 keywords: Hackathon
 ---
