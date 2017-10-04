@@ -1,6 +1,6 @@
 ---
 layout: post
-title: [转载]关于 Markdown 的一些奇技淫巧
+title: 关于 Markdown 的一些奇技淫巧
 categories: others
 description: 介绍 Markdown 的一些高级用法。
 keywords: Markdown, 奇技淫巧
