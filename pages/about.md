@@ -12,9 +12,9 @@ permalink: /about/
 
 目前为安卓开发者，业余也学点前端。
 
-技术文章目前主要发表在 CSDN：http://blog.csdn.net/u011240877
+技术文章目前主要发表在 CSDN：<http://blog.csdn.net/u011240877>
 
-生活相关发表在 简书：http://www.jianshu.com/u/8e8ad16d1fcf
+生活相关发表在 简书：<http://www.jianshu.com/u/8e8ad16d1fcf>
 
 本站用作备份。
 
