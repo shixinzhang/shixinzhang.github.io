@@ -17,7 +17,7 @@ side_bar_repo_limit: 5
 #      Author      #
 # ---------------- #
 author: 张拭心 shixinzhang
-important: 所有技术文章
+important: 发布的技术文章
 important_url: http://blog.csdn.net/u011240877
 github_username: 我的 GitHub
 location: Shanghai, China
@@ -105,7 +105,7 @@ gitalk:
     clientID: 34909673d9a1d362d29c
     clientSecret: d0a13eef81ac4684160f91923c49af8246dd5b86
 # 在使用其它评论组件时可点击显示 Disqus
-lazy_load_disqus : true
+lazy_load_disqus : false
 
 # ---------------- #
 #    Analytics     #

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Java 网络编程之 Internt 地址
+title: Java 网络编程之 Internet 地址
 categories: Java 网络编程
 description: 了解 Internt 地址相关的 API 
 keywords: Java 网络编程
