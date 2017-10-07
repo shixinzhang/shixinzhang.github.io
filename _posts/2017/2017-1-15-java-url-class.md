@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Java 网络编程之 URL
+title: Java 网络编程之 URL 类
 categories: Java 网络编程
 description: Java 网络编程之 URL 的使用及相关方法
 keywords: Java 网络编程 URL
@@ -323,7 +323,7 @@ Process finished with exit code 0
 
 ### getContent()
 
-``getContent()`` 可以获取由 URL 引用的数据，如果 URL 指示的是文本，返回的通常是 ``InputStream`` 子类；如果指示的是图片，返回的是一个 ``java.awt.ImageProducer``。
+``getContent()`` 可以获取由 URL 引用的数据，如果 URL 指示的是文本，返回的通常是 ``InputStream`` 子类；如果指示的是图片，返回的是一个 ``URLImageSource``。
 
 访问一个网页：
 
@@ -382,7 +382,17 @@ URL 的组成及对应获取方法：
 
 URL 的 ``equals()`` 和 ``hashCode()`` 当且仅当两个 URL 指向相同的主机、端口和路径上的相同资源，才会认为是相等的。
 
-**实际上，``equals()`` 方法会尝试用 DNS 解析主机，以判断主基金是否相同，因此这可能是一个阻塞的 I/O 操作，要尽量避免影响后面的操作！**
+```
+    protected boolean equals(URL u1, URL u2) {
+        return Objects.equals(u1.getRef(), u2.getRef()) &&
+               Objects.equals(u1.getQuery(), u2.getQuery()) &&
+               // sameFile compares the protocol, file, port & host components of
+               // the URLs.
+               sameFile(u1, u2);
+    }
+```
+
+**实际上，``equals()`` 方法会尝试用 DNS 解析主机，以判断主机是否相同，因此这可能是一个阻塞的 I/O 操作，要尽量避免影响后面的操作！**
 
 ```
 private static void testUrlEquals() {

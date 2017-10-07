@@ -133,29 +133,45 @@ keywords: Android, Java,进阶,学习目标
 
 # 3.设计模式
 
+## 六大原则
+
 - [ 设计模式六大原则： 一个萝卜一个坑 -- 单一职责原则](http://blog.csdn.net/u011240877/article/details/52177033)
 - [ 设计模式六大原则： 一国两制 -- 开放封闭原则](http://blog.csdn.net/u011240877/article/details/52187631)
 - [ 设计模式六大原则： 狸猫换太子 -- 里氏替换原则](http://blog.csdn.net/u011240877/article/details/52187810)
 - [ 设计模式六大原则： 老板是如何减轻负担的 -- 依赖倒置原则](http://blog.csdn.net/u011240877/article/details/52194373)
 - [ 设计模式六大原则： 辅导班的因材施教 -- 接口隔离原则](http://blog.csdn.net/u011240877/article/details/52213659)
 - 设计模式六大原则： 迪米特原则
-- [ Java 实现多种单例模式 SingletonPattern](http://blog.csdn.net/u011240877/article/details/46988219)
+
+## 概念理解
+
+- [ 单例模式：Java 多种实现方式](http://blog.csdn.net/u011240877/article/details/46988219)
 - [ 代理模式：女朋友这么漂亮，你缺经纪人吗？](http://blog.csdn.net/u011240877/article/details/52264283)
 - [ 动态代理：1 个经纪人如何代理 N 个明星](http://blog.csdn.net/u011240877/article/details/52334547)
 - [ 策略模式：网络小说的固定套路](http://blog.csdn.net/u011240877/article/details/52346671)
-- [ Android 中的那些策略模式](http://blog.csdn.net/u011240877/article/details/52493408)
 - [ 适配器模式 : 农村小伙娶乌克兰美女语言不通 翻译软件立功](http://blog.csdn.net/u011240877/article/details/52601040)
 - [ 观察者模式 : 一支穿云箭，千军万马来相见](http://blog.csdn.net/u011240877/article/details/52683558)
-- [ 最熟悉的陌生人：ListView 中的观察者模式](http://blog.csdn.net/u011240877/article/details/52683711)
 - [ 变种 Builder 模式：优雅的对象构建方式](http://blog.csdn.net/u011240877/article/details/53248917)
 - 简单工厂模式
 - 抽象工厂模式
 - 工厂方法模式
 - 装饰模式与 Java I/O 流
 - 组合模式
+- 模板方法模式
 - 迭代器模式
 - 外观模式
+- 原型模式
+- 状态模式
+- 桥接模式
+- 责任链模式
+- 享元模式
 - [ 23 种经典设计模式 UML 类图汇总](http://blog.csdn.net/u011240877/article/details/45381071)
+
+## 结合实践
+
+
+- [ Android 中的那些策略模式](http://blog.csdn.net/u011240877/article/details/52493408)
+- [ 最熟悉的陌生人：ListView 中的观察者模式](http://blog.csdn.net/u011240877/article/details/52683711)
+
 
 # 4.架构设计
 
@@ -168,22 +184,6 @@ https://github.com/android10/Android-CleanArchitecture
 - MVP 的思路与实现
 - MVVM 的思路与实现
 
-## 搭建自己的框架：
-
-- 基类
- - ActionBar
-- 网络
-- 图片加载
-- 缓存
-- Hybrid
-- 工具类
-- UBT 统计（埋点）
-- 分享
-- 更新
-- 错误捕获处理
- - [How to setup ACRA, an Android Application Crash Tracking system, on your own host](https://inthecheesefactory.com/blog/how-to-install-and-use-acra-android/en)
-- 日志管理上传
-- 推送
 
 # 5.数据通信与网络
 
@@ -202,10 +202,12 @@ https://github.com/android10/Android-CleanArchitecture
 
 ## Java 网络编程
 
+- Socket
+
 ## Android 网络编程
 
 
-- 看那个下载的快传代码
+- 快传代码
 - 断点下载
 - 文件上传
 
@@ -378,6 +380,7 @@ ContentProvider 细节，什么时候使用
 - Hybrid 离线缓存、更新
 - Hybrid WebView 预加载
 - 异常页面？
+- 加载慢怎么办？
 
 # 10.跨平台
 
@@ -440,6 +443,8 @@ Dalvik VM, ART 和 JVM 的区别
 
 - [ git 对比两个分支差异](http://blog.csdn.net/u011240877/article/details/52586664)
 - [ git pull --rebase 做了什么？ 以及 Cannot rebase: You have unstaged changes 解决办法](http://blog.csdn.net/u011240877/article/details/52668807)
+- git 回退的几种方式
+- git 实现原理
 
 # 14.Gradle
 
@@ -447,6 +452,7 @@ Dalvik VM, ART 和 JVM 的区别
 - [ Gradle for Android 系列：初识 Gradle 文件](http://blog.csdn.net/u011240877/article/details/53798052)
 - Gradle for Android 系列：Groovy 
 - Gradle for Android 系列：Android Gradle Plugin 开发
+- Gralde 构建 app 流程
 
 # 15.Android 测试
 
@@ -472,8 +478,8 @@ Effective Java 读书笔记
 ## RxJava
 
 - RxJava 的作用
-- 与平时使用的异步操作来比，优缺点
-- 内存泄漏的问题
+ - 与平时使用的异步操作来比，优缺点
+ - 内存泄漏的问题
 - 操作符
  - [RxJava 1.x ：创建型操作符](http://blog.csdn.net/u011240877/article/details/75282790)
  - [RxJava 1.x ：变换型操作符](http://blog.csdn.net/u011240877/article/details/74993683)
