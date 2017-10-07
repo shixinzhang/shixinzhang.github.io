@@ -376,3 +376,111 @@ Process finished with exit code 0
 
 - ``toString()`` 直接返回 URI 未编码的字符串形式，不会将非 ASCII 码的字符转义
 - ``toASCIIString()`` 会返回 URI 编码的字符串形式，会将非 ASCII 码字符转义
+
+
+# x-www-form-urlencoded (URL/URI 的加密和解密)
+
+不同操作系统间编码不一致，会导致各种问题，另外在发明 Web 时 Unicode 还没有完全普及，所以很多特殊字符不是所有操作系统都能处理。
+
+为了解决这些问题，URL 中使用的字符必须是 ASCIII 的一个子集，它包括：
+
+- 大写字母 A-Z
+- 小写字母 a-z
+- 数字 0-9
+- 标点符号字符 -_.!~*',
+
+这些以外的字符（尤其是中文）需要进行编码，其他字符的每个字节要写为百分号后面加两个 十六进制数字。
+
+
+Java 为我们提供了两个类用于 URL 的非 ASCII 码字符的编解码：
+
+- URIEncoder
+- URLDecoder
+
+## URIEncoder
+
+``URIEncoder`` 的静态方法 ``encode()`` 可以对传入的参数进行编码：
+
+```
+private static void testUrlEncode() {
+    try {
+        String encode = URLEncoder.encode("https://shixinzhang.top/2017/01/15/java-url-class/#创建新的-url", "UTF-8");
+        System.out.println(encode);
+    } catch (UnsupportedEncodingException e) {
+        e.printStackTrace();
+    }
+}
+
+```
+
+运行结果:
+
+```
+https%3A%2F%2Fshixinzhang.top%2F2017%2F01%2F15%2Fjava-url-class%2F%23%E5%88%9B%E5%BB%BA%E6%96%B0%E7%9A%84-url
+
+Process finished with exit code 0
+```
+
+可以看到，``URIEncoder`` 比较蠢，把不该编码的字符也都编码了。所以我们在使用时不能直接对整个 URL 进行编码，一般对 path, query 和 fragment 进行编码即可，比如这样：
+
+```
+private static void testUrlEncode() {
+    String url = "https://shixinzhang.top/2017/01/15/java-url-class/#创建新的-url";
+    try {
+        String encode = URLEncoder.encode(url, "UTF-8");
+        System.out.println(encode);
+
+        URI uri = new URI(url);
+        String fragment = uri.getFragment();
+        String encodedFragment = URLEncoder.encode(fragment);
+        System.out.println(url.replace(fragment, encodedFragment));
+
+    } catch (UnsupportedEncodingException e) {
+        e.printStackTrace();
+    } catch (URISyntaxException e) {
+        e.printStackTrace();
+    }
+}
+
+```
+
+运行结果：
+
+```
+https%3A%2F%2Fshixinzhang.top%2F2017%2F01%2F15%2Fjava-url-class%2F%23%E5%88%9B%E5%BB%BA%E6%96%B0%E7%9A%84-url
+https://shixinzhang.top/2017/01/15/java-url-class/#%E5%88%9B%E5%BB%BA%E6%96%B0%E7%9A%84-url
+
+Process finished with exit code 0
+```
+
+## URLDecoder
+
+``URLDecoder`` 可以对用 ``x-www-form-url-encoded`` 格式编码的字符串进行解码，将加号转换为空格，百分号转义字符转换为对应的字符。
+
+使用例子：
+
+```
+private static void testUrlDecode() {
+    try {
+        System.out.println(
+                URLDecoder.decode("https%3A%2F%2Fshixinzhang.top%2F2017%2F01%2F15%2Fjava-url-class%2F%23%E5%88%9B%E5%BB%BA%E6%96%B0%E7%9A%84-url", "UTF-8"));
+
+        System.out.println(
+                URLDecoder.decode("https://shixinzhang.top/2017/01/15/java-url-class/#%E5%88%9B%E5%BB%BA%E6%96%B0%E7%9A%84-url", "UTF-8"));
+    } catch (UnsupportedEncodingException e) {
+        e.printStackTrace();
+    }
+}
+
+```
+
+运行结果：
+
+```
+https://shixinzhang.top/2017/01/15/java-url-class/#创建新的-url
+https://shixinzhang.top/2017/01/15/java-url-class/#创建新的-url
+
+Process finished with exit code 0
+```
+
+> 如果不确定使用哪种编码方式，就选择 ``UTF-8``，正确的可能性更大。

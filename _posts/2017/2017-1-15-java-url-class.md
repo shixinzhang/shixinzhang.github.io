@@ -421,4 +421,167 @@ Process finished with exit code 0
 ``URL`` 还有一个 ``sameFile()`` 方法，用于比较两个 URL 是否指向相同的资源。这里也会包括 DNS 查询。
 
 
+
+# GET 请求如此简单
+
+本来想单独开一篇的，奈何使用 URL 实现 GET 请求太简单，就凑合写到一起吧：
+
+```
+private static void testGetRequest() {
+    try {
+        URL url = new URL("http://gank.io/api/data/Android/10/1");
+        try (InputStream in = new BufferedInputStream(url.openStream())) {
+            Reader reader = new InputStreamReader(in);
+            int c;
+            while ((c = reader.read()) != -1) {
+                System.out.write(c);
+            }
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
+    } catch (MalformedURLException e) {
+        e.printStackTrace();
+    }
+}
+
+```
+
+使用 URL 类实现 GET 请求就是如此简单，不信你看运行结果：
+
+```
+{
+  "error": false, 
+  "results": [
+    {
+      "_id": "59c3d43a421aa9727ddd19c0", 
+      "createdAt": "2017-09-21T23:01:14.453Z", 
+      "desc": "\u7075\u6d3b\u7684ShadowView\uff0c\u53ef\u66ff\u4ee3CardView\u4f7f\u7528", 
+      "images": [
+        "http://img.gank.io/5ca55569-7b78-4691-aa1a-a1165eb8a164"
+      ], 
+      "publishedAt": "2017-09-29T11:21:16.116Z", 
+      "source": "web", 
+      "type": "Android", 
+      "url": "https://github.com/loopeer/shadow", 
+      "used": true, 
+      "who": null
+    }, 
+    {
+      "_id": "59c3db8d421aa9727ddd19c1", 
+      "createdAt": "2017-09-21T23:32:29.351Z", 
+      "desc": "Android Transition\u5b66\u4e60\u7b14\u8bb0", 
+      "images": [
+        "http://img.gank.io/a553aa37-9a54-4bb6-bdc2-9bfc2737e065"
+      ], 
+      "publishedAt": "2017-09-29T11:21:16.116Z", 
+      "source": "web", 
+      "type": "Android", 
+      "url": "http://rkhcy.github.io/2017/09/21/TransitionNote/", 
+      "used": true, 
+      "who": "HuYounger"
+    }, 
+    {
+      "_id": "59cc8cac421aa972879d121a", 
+      "createdAt": "2017-09-28T13:46:20.656Z", 
+      "desc": "Android\u4e09\u79cd\u59ff\u52bf\u5e26\u4f60\u73a9\u8f6c360\u5ea6\u5168\u666f\u56fe\u529f\u80fd", 
+      "publishedAt": "2017-09-29T11:21:16.116Z", 
+      "source": "web", 
+      "type": "Android", 
+      "url": "https://github.com/CN-ZPH/Three360panorama", 
+      "used": true, 
+      "who": "\u5f20\u9e4f\u8f89"
+    }, 
+    {
+      "_id": "59cc9df6421aa9727ddd19db", 
+      "createdAt": "2017-09-28T15:00:06.42Z", 
+      "desc": "\u6bd4\u5b98\u65b9\u66f4\u50cf\u5b98\u65b9\u7684NationalGeographic\u56fd\u5bb6\u5730\u7406-\u6bcf\u65e5\u7cbe\u9009\u5ba2\u6237\u7aef\uff0c\u91cd\u8981\u7684\u662f\u7528\u4e86\u6700\u65b0\u7684Android Architecture Components(Lifecycle) & Kotlin\uff0c\u7ed9\u5927\u5bb6\u63a2\u8def\u586b\u5751", 
+      "publishedAt": "2017-09-29T11:21:16.116Z", 
+      "source": "web", 
+      "type": "Android", 
+      "url": "https://www.github.com/wheat7/NationalGeographic", 
+      "used": true, 
+      "who": "\u9ea6\u7530\u54e5"
+    }, 
+    {
+      "_id": "59b74f4a421aa911847a0390", 
+      "createdAt": "2017-09-12T11:06:50.144Z", 
+      "desc": "\u57fa\u4e8eTesseract-OCR\u5b9e\u73b0\u81ea\u52a8\u626b\u63cf\u8bc6\u522b\u624b\u673a\u53f7", 
+      "images": [
+        "http://img.gank.io/d2c557fe-7d3b-4330-9c51-9c427178f633"
+      ], 
+      "publishedAt": "2017-09-26T12:12:07.813Z", 
+      "source": "web", 
+      "type": "Android", 
+      "url": "https://github.com/simplezhli/Tesseract-OCR-Scanner", 
+      "used": true, 
+      "who": "\u552f\u9e7f"
+    }, 
+    {
+      "_id": "59b9da64421aa911847a039a", 
+      "createdAt": "2017-09-14T09:24:52.83Z", 
+      "desc": "\u8be6\u7ec6\u8bb2\u89e3Launcher\u6574\u4e2a\u5f00\u53d1\u6d41\u7a0b\u7684\u7cfb\u5217\u6559\u7a0b\u3002", 
+      "publishedAt": "2017-09-26T12:12:07.813Z", 
+      "source": "web", 
+      "type": "Android", 
+      "url": "http://www.codemx.cn/tags/Launcher/", 
+      "used": true, 
+      "who": "YUCHUAN"
+    }, 
+    {
+      "_id": "59bbe41f421aa9118887ac26", 
+      "createdAt": "2017-09-15T22:30:55.891Z", 
+      "desc": "Android7.1 \u7684 HashMap\u5de5\u4f5c\u539f\u7406", 
+      "publishedAt": "2017-09-26T12:12:07.813Z", 
+      "source": "web", 
+      "type": "Android", 
+      "url": "http://www.jianshu.com/p/1f0b8175ce7c", 
+      "used": true, 
+      "who": "Niekon"
+    }, 
+    {
+      "_id": "59c89a0d421aa9727fdb25dc", 
+      "createdAt": "2017-09-25T13:54:21.702Z", 
+      "desc": "Drakeet \u7684 telegram \u5e7f\u64ad\u9891\u9053\uff0c\u4e13\u7528\u4e8e\u5206\u4eab\u4e00\u4e9b\u6280\u672f\u4e0a\u7684\u770b\u6cd5\u3001\u4f53\u9a8c\u5fc3\u5f97\u3001\u4e00\u4e9b\u5e93 / \u9879\u76ee\u7684\u66f4\u65b0\u72b6\u51b5\u53ca\u89e3\u8bfb\uff08\u6bd4\u5982 AS\u3001support lib\uff09\uff0c\u6709\u65f6\u4e5f\u4f1a\u5206\u4eab\u4e00\u4e9b\u597d\u73a9\u7684\u4e8b\u7269\u548c\u6587\u7ae0\u94fe\u63a5", 
+      "publishedAt": "2017-09-26T12:12:07.813Z", 
+      "source": "web", 
+      "type": "Android", 
+      "url": "https://t.me/drakeets", 
+      "used": true, 
+      "who": "drakeet"
+    }, 
+    {
+      "_id": "597e016c421aa90ca209c523", 
+      "createdAt": "2017-07-30T23:55:24.154Z", 
+      "desc": "Android\u7ec8\u7aef", 
+      "publishedAt": "2017-09-21T13:27:15.675Z", 
+      "source": "chrome", 
+      "type": "Android", 
+      "url": "https://github.com/termux/termux-app", 
+      "used": true, 
+      "who": "Jason"
+    }, 
+    {
+      "_id": "597f2861421aa90ca209c527", 
+      "createdAt": "2017-07-31T20:53:53.217Z", 
+      "desc": "Google\u4ece API 21 \u65b0\u589e\u4e86\u63a5\u53e3 android.app.usage , \u901a\u8fc7\u8fd9\u4e2aapi\u6211\u4eec\u53ef\u4ee5\u7edf\u8ba1\u5230\u6bcf\u4e2aapp\u7684\u4f7f\u7528\u60c5\u51b5\uff0c\u542f\u52a8\u6b21\u6570\uff0c\u542f\u52a8\u65f6\u95f4\u7b49\uff0c\u4e5f\u53ef\u4ee5\u5224\u65ad\u662f\u5426\u524d\u540e\u53f0\uff0c\u6bd4\u8f83\u65b9\u4fbf\u3002", 
+      "images": [
+        "http://img.gank.io/c778f7da-b580-490b-961d-34706a57d326"
+      ], 
+      "publishedAt": "2017-09-21T13:27:15.675Z", 
+      "source": "web", 
+      "type": "Android", 
+      "url": "http://www.jianshu.com/p/bdf47afe110d", 
+      "used": true, 
+      "who": "Tamic (\u7801\u5c0f\u767d)"
+    }
+  ]
+}
+
+Process finished with exit code 0
+```
+
+当然这些数据还需要我们进行解析、还原成原始数据，但是可以发现，与这个服务器对话的代码是如此的简单！
+
+至于 GET 以外的请求，就需要用到 ``URLConnection`` 了，我们后面介绍。
+
 > 下一篇文章我们了解 URI。
