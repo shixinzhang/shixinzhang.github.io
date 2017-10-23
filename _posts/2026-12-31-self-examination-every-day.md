@@ -19,6 +19,10 @@ keywords: 思考，反馈
 
 ## 10 月
 
+### 2017年10月23日星期1
+
+1.[不错的在线看 framework 源码网站](https://insight.io/github.com/aosp-mirror/platform_frameworks_base/tree/master/)
+
 ### 2017年10月22日星期日
 
 **1.和 Anonymous 约饭**
