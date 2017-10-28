@@ -1,10 +1,12 @@
 ---
 layout: post
 title: 《革命之路》：我们无法强迫对方改变
-categories: movie
+categories: Movie
 description: 关于婚姻的电影观后感
 keywords: 电影 婚姻
 ---
+
+![](http://oqg4nua5z.bkt.clouddn.com/movie/revolution.jpeg)
 
 婚姻，是什么？
 
