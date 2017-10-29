@@ -1,10 +1,12 @@
 ---
 layout: post
-title: 《小王子》：
+title: 《小王子》：像孩子一样多问为什么
 categories: Book
 description: 
 keywords: 书籍 小王子
 ---
+
+每次仰望星空，会想：那只羊究竟吃了玫瑰花没有？
 
 ![](http://oqg4nua5z.bkt.clouddn.com/book/little-prince.jpeg)
 
