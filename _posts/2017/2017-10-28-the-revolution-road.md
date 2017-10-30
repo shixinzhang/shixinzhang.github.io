@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 《革命之路》：我们无法强迫对方改变
-categories: Movie
+categories: BookAndMovie
 description: 关于婚姻的电影观后感
 keywords: 电影 婚姻
 ---

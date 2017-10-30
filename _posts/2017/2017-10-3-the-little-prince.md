@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 《小王子》：像孩子一样多问为什么
-categories: Book
+categories: BookAndMovie
 description: 
 keywords: 书籍 小王子
 ---

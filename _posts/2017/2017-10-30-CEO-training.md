@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 余总新员工培训记录
-categories: Grow
+categories: GrowNote
 description: 干货满满
 keywords: 余总 培训 创业
 ---
