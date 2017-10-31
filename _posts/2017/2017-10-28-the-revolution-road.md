@@ -6,9 +6,10 @@ description: 关于婚姻的电影观后感
 keywords: 电影 婚姻
 ---
 
+婚姻，是什么？
+
 ![](http://oqg4nua5z.bkt.clouddn.com/movie/revolution.jpeg)
 
-婚姻，是什么？
 
 是相拥而眠、缠绵情语的两个孤独灵魂，也是无聊生活里打发时间、增添快乐、分享痛苦的亲近对象。
 
