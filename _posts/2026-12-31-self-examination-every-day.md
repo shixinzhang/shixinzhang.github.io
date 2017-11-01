@@ -17,6 +17,25 @@ keywords: 思考，反馈
 
 # 2017 年
 
+## 11 月
+
+
+### 2017年11月1日星期3
+
+1.十月一眨眼就过去了，这一个月逐渐适应了新工作。上帝保佑，同事人都很好，公司氛围也不错，前景也比较看好。
+
+希望今年直播业绩可以上去，得个奖什么的吧哈哈。
+
+2.发现几个不错的在线学习课程，找时间看看！！
+
+> [全球 200 个大学发布的在线课程列表](https://medium.freecodecamp.org/200-universities-just-launched-560-free-online-courses-heres-the-full-list-d9dd13600b04)
+
+- [HTML5 CSS JS 课程目录](https://www.edx.org/professional-certificate/front-end-web-developer-9)
+- [JavaScript 入门](https://courses.edx.org/courses/course-v1:W3Cx+JS.0x+3T2017/course/#block-v1:W3Cx+JS.0x+3T2017+type@sequential+block@1e421ab9d4d84c32baf18d86e97a3304)
+- [北京大学的电子商务课程](https://courses.edx.org/courses/course-v1:PekingX+02532570x+3T2017/courseware/427f95cdd003437aaba9041745811b59/27ad929482b94c49afc38497ddbf5907/?activate_block_id=block-v1%3APekingX%2B02532570x%2B3T2017%2Btype%40sequential%2Bblock%4027ad929482b94c49afc38497ddbf5907)
+- 还有很多其他方面待发掘...
+
+
 ## 10 月
 
 ### 2017年10月31日星期2
