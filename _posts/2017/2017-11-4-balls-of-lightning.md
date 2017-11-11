@@ -1,7 +1,6 @@
-
 ---
 layout: post
-title: 《球状闪电》：宿命
+title: 《球状闪电》：可能与不可能
 categories: BookAndMovie
 description: 刘慈欣作品之一《球状闪电》
 keywords: 科幻小说
