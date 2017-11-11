@@ -20,6 +20,50 @@ keywords: 思考，反馈
 ## 11 月
 
 
+### 2017年11月10日星期5
+
+1.《如何实现一个 Retrofit》，类似这样的标题及内容展现形式，从目的出发，一步步倒推，适当跳过细节，最后对比框架的实现
+
+2.麦肯锡教我的写作武器，Java 虚拟机规范, 领导梯队
+
+3.做什么和会什么是两码事，不用为了会后台而转去后台，可以都学着，为将来做储备。等什么时候觉得需要结合项目深入了，再考虑转。
+
+可以是会后台的资深安卓，主要得有一个深入，再有一些其他掌握。
+
+![](http://ww1.sinaimg.cn/large/b1aad299gy1fldx956pqsj20qo0hvmzs.jpg)
+
+### 2017年11月9日星期4
+
+1.产品迭代流程：实现基本功能、发布、收集反馈、改正、再发布
+
+成长也是这样，主动展示自己，接受批评指正，修改，再展示，再受批评，不断迭代。
+
+所以不要害怕展示和批评，都是为了成长。
+
+### 2017年11月8日星期3
+
+1.论心态
+
+9C7JJxt1ZPERbphCRE4a0AxcuNAi/YshMBX1zrvQF6P7yfuP0ELduOSMbCFSyMqHd2PSiagBmzrLtjnROYH9dAv+Ejx5Er1tSgSTkzRD7hBsC3oLO1L3bTw85Ye2bZS6XL0sVgGibxc6wfmHwjHEpjlMhe7yFoAuV+pKB8jVGu6S3kjlRwV/wnLEmGBG7t0Xn33pJjJ30WUvUvX0NWaJ/Ha5dMKbkRcVK0DQKGWr7/yAAz8z2WLQ6z4xNprOh/2l4m1cNAoLGqIO8q/SaNQqbWLsKXQW6L3BWXW1komnDYhSGZx6DD/QJPctdVosaXvSQA3wXcYlk7yvjufvPj2YQywW2azzGDLrDmKIZvVwtcGUrZgrJ4ZqQu2LyWubjKNQKx4y1Ywh1XfWA14rkcfG7O3IHpByQFBxeJdEOszjfBTJnWWJHZQ5Y8Jn6g2oSPKZ1aGsG71i59CFVJDOW4wJMVmD4DxFAyfkDYspcEFxq8CLchzjNtHNMmo1JbGdAscZoeN7MjWZkLpLrOMzPg98vlRPI70HLYo4pxgqZoeSyWaPXDUA7bL3jscOt65+zPFUEQ39/oT5sV3uUrFi/7yXN4hW++8LJ2zsaxwvJXOPLxX3eiiq0Ro3uATwG/B+K6RESkBa4n9bo8gz0rJzVOeypOUW1j7CmwZXNW3Hk+tKuHTmOz/R3m53nfr/kfo0tk2/veXWXvoSKDwcDtkVPzGqMFrDvwyjfdG2WnqYgvkwqa3jLKU1dHZB3D3wqIt1S8YIS2pKgJIGhF9U+TH2VITBg+XA9UncWKQSDvE6IW33RLCz2A9+8xelO6xZ4HUkxq9+QMgWJ2gczWXcj4CeUnrOhb8Dua8TPBRlw7v0X8lz/YM=
+
+
+2.什么是成长？
+
+从自我感觉良好到发现自己的不足到逐渐完善，这就是成长。今年发现很多自己的缺点，也在努力的克服着。
+
+这个过程中你会很痛苦，会怀疑自己，这就对了，不断的推倒重来，才能走到更远。
+
+
+### 2017年11月7日星期2
+
+1.为什么要花时间看这些，不去看点高级的。对此我的回答是，现在刚开始，把基础的点扎实了，由点及面，后面联系、拓扑就快得多。
+
+2.读到的一些话
+
+- 前端发展非常快，有很多的新内容。对新内容的判断，怎么使用也是考察的重点之一。尤其是为什么要用某个技术这个问题是我常问的。为了技术而技术，考虑问题的全面性就会差很多
+- 多思考在工作或学习中，还有什么问题值得你去解决的，尝试不同的方案，总结失败和成功。最为关键的是将来的你要成为什么，去往这个方向努力
+- 就是把这些最关键最难的知识免费分享做好之后，再去做一些不那么重要不那么难的知识，把这些「你自己也能学会，但我能帮你更快学会」的东西做成收费
+
 ### 2017年11月6日星期1
 
 1.请假陪小肉去看牙医，还好没大碍
