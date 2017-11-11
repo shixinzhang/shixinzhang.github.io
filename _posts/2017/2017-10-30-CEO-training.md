@@ -1,13 +1,13 @@
 ---
 layout: post
-title: 余总新员工培训记录
+title: 新员工培训记录
 categories: GrowNote
 description: 干货满满
 keywords: 余总 培训 创业
 ---
 
 
-2017.10.30 余总新员工培训记录
+2017.10.30 新员工培训记录
 
 
 余建军
