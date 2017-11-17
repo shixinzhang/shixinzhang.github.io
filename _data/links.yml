@@ -1,14 +1,25 @@
 - name: 低调帅气的人 （安卓）
   url: http://blog.csdn.net/u011240877
 
-- name: Michael Chow（后端）
-  url: https://segmentfault.com/u/mizhoux/articles
-
 - name: bingoogolapple 大佬（安卓 iOS）
   url: http://www.bingoogolapple.cn/
 
 - name: 神来一巴掌 大佬（安卓）
   url: http://www.wangyuwei.me/
+
+- name: 桃小七的博客 （安卓开发，读书笔记写的很好）
+  url: http://taoyuanxiaoqi.com/archives/
+
+- name: Bugly 技术博客 （安卓的文章不错）
+  url: http://dev.qq.com/
+
+
+- name: Michael Chow（后端）
+  url: https://segmentfault.com/u/mizhoux/articles
+
+- name: 徐刘根的专栏 （安卓转后端）
+  url: http://blog.csdn.net/xlgen157387
+
 
 - name: 关人潮前辈 （前端多年）
   url: http://fsux.me/archive.html#
@@ -16,7 +27,5 @@
 - name: 从零开始学前端·目录
   url: https://zhuanlan.zhihu.com/p/22099626
 
-- name: 桃小七的博客 （安卓开发，读书笔记写的很好）
-  url: http://taoyuanxiaoqi.com/archives/
-
-
+- name: Node.js 社区及入门文章
+  url: http://cnodejs.org/getstart
