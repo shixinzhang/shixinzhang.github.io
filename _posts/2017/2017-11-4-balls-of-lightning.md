@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 《球状闪电》：可能与不可能
+title: 《球状闪电》：金黄色的树林里，人迹罕至的那一条路
 categories: BookAndMovie
 description: 刘慈欣作品之一《球状闪电》
 keywords: 科幻小说
