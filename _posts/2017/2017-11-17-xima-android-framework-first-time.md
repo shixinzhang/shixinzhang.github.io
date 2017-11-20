@@ -1,6 +1,6 @@
 ---
 layout: post
-title: AndroidFramework 学习分享: 输入事件传递机制
+title: AndroidFramework 之初识输入事件传递机制
 categories: AndroidFramework
 description: 路线指导
 keywords: Android, Framework, 源码
