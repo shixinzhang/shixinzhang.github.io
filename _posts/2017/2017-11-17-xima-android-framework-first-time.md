@@ -1,12 +1,22 @@
 ---
 layout: post
-title: AndroidFramework 学习分享第一次记录
+title: AndroidFramework 学习分享: 输入事件传递机制
 categories: AndroidFramework
 description: 路线指导
 keywords: Android, Framework, 源码
 ---
 
 XimaAndroidFramework 小组第一次分享交流（鹏飞 carry 全场）。
+
+# Android 输入事件传递机制
+
+![](http://oqg4nua5z.bkt.clouddn.com/android/internal/android_input_system.png)
+
+**学习资源链接：**
+
+1. [http://newandroidbook.com/Book/Input.html?r](http://newandroidbook.com/Book/Input.html?r)
+2. [http://newandroidbook.com/files/AndroidInput.pdf](http://newandroidbook.com/files/AndroidInput.pdf)
+3. [https://seasonofcode.com/posts/internal-input-event-handling-in-the-linux-kernel-and-the-android-userspace.html](https://seasonofcode.com/posts/internal-input-event-handling-in-the-linux-kernel-and-the-android-userspace.html)
 
 设备硬件，内核s，信号
 
