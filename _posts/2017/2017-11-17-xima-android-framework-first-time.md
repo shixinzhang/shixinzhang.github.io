@@ -8,6 +8,16 @@ keywords: Android, Framework, 源码
 
 XimaAndroidFramework 小组第一次分享交流（鹏飞 carry 全场）。
 
+# 鹏飞分享的学习链接
+
+- [Android系统Audio框架介绍](http://blog.csdn.net/yangwen123/article/details/39502689)
+- https://source.android.com/devices/graphics/
+- [Choreographer 这篇介绍的不错](http://www.jianshu.com/p/996bca12eb1d)
+- [Android 显示系统源码分析](http://blog.csdn.net/yangwen123/article/category/1647761)
+- [android surfaceflinger研究----显示系统](http://www.cnblogs.com/armlinux/archive/2012/02/29/2396756.html)
+- [Android 6.0 VSync 信号如何到用户进程](http://blog.csdn.net/kc58236582/article/details/52892384)
+- http://blog.csdn.net/kc58236582/article/category/6436488
+
 # Android 输入事件传递机制
 
 ![](http://oqg4nua5z.bkt.clouddn.com/android/internal/android_input_system.png)
