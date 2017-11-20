@@ -17,10 +17,13 @@
 - name: Bugly 技术博客 （安卓的文章不错）
   url: http://dev.qq.com/
 
+- name: 《深入理解 Android 卷3》电子版（Binder, AudioService, WMS, IMS, UI 系统源码分析），进阶必看！
+  url: https://www.kancloud.cn/alex_wsc/android-deep3/416175
+
 - name: 国外的安卓底层学习网站（注意不要看版本太低的）
   url: http://newandroidbook.com/
 
-- name: palanceli 的安卓底层源码专栏
+- name: palanceli 的安卓底层源码专栏（工作 15 年前辈）
   url: http://palanceli.com/categories/Android%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/
 
 - name: ------------- 后端 ---------------
