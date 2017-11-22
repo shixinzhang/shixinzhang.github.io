@@ -16,7 +16,9 @@ permalink: /about/
 
 生活相关发表在 简书：<http://www.jianshu.com/u/8e8ad16d1fcf>
 
-本站用作备份。
+欢迎扫码关注我的公众号“安卓进化论”，分享技术和人生思考。
+
+![](http://img.blog.csdn.net/20160923012706321)
 
 ## 联系
 
