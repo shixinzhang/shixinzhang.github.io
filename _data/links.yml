@@ -1,3 +1,9 @@
+- name: ------------- 基础 ---------------
+  url: #
+
+- name: Linux 算法 并发 Binder 都很好的 wangkuiwu 前辈
+  url: http://wangkuiwu.github.io/categories/
+
 
 - name: ------------- 安卓 ---------------
   url: #
@@ -17,7 +23,7 @@
 - name: Bugly 技术博客 （安卓的文章不错）
   url: http://dev.qq.com/
 
-- name: 《深入理解 Android 卷3》电子版（Binder, AudioService, WMS, IMS, UI 系统源码分析），进阶必看！
+- name: 《深入理解 Android 卷3》（Binder, AudioService, WMS, IMS, UI 系统源码）
   url: https://www.kancloud.cn/alex_wsc/android-deep3/416175
 
 - name: 国外的安卓底层学习网站（注意不要看版本太低的）
