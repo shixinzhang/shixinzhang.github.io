@@ -1,9 +1,11 @@
-- name: ------------- 基础 ---------------
+- name: ------------- 其他 ---------------
   url: #
 
 - name: Linux 算法 并发 Binder 都很好的 wangkuiwu 前辈
   url: http://wangkuiwu.github.io/categories/
 
+- name: 桃小七的博客 （安卓开发，读书笔记写的很好）
+  url: http://taoyuanxiaoqi.com/archives/
 
 - name: ------------- 安卓 ---------------
   url: #
@@ -17,8 +19,8 @@
 - name: 神来一巴掌 大佬（安卓）
   url: http://www.wangyuwei.me/
 
-- name: 桃小七的博客 （安卓开发，读书笔记写的很好）
-  url: http://taoyuanxiaoqi.com/archives/
+- name: Gityuan 的博客（安卓 framework）
+  url: http://gityuan.com/archive/
 
 - name: Bugly 技术博客 （安卓的文章不错）
   url: http://dev.qq.com/
@@ -26,11 +28,17 @@
 - name: 《深入理解 Android 卷3》（Binder, AudioService, WMS, IMS, UI 系统源码）
   url: https://www.kancloud.cn/alex_wsc/android-deep3/416175
 
+- name: 罗升阳前辈的安卓进阶指导文章
+  url: http://blog.csdn.net/Luoshengyang/article/details/8923485
+
 - name: 国外的安卓底层学习网站（注意不要看版本太低的）
   url: http://newandroidbook.com/
 
-- name: palanceli 的安卓底层源码专栏（工作 15 年前辈）
+- name: palanceli 的安卓底层源码专栏（工作 15 年前辈、InputMethod）
   url: http://palanceli.com/categories/Android%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/
+
+- name: 这个人收藏了音视频的资料
+  url: http://blog.csdn.net/a675311/article/list/5
 
 - name: ------------- 后端 ---------------
   url: #
@@ -38,8 +46,18 @@
 - name: Michael Chow（后端）
   url: https://segmentfault.com/u/mizhoux/articles
 
+- name: JavaEE 进阶之路要看的书
+  url: http://www.jianshu.com/p/fb35ace20a90
+
+- name: 芋道源码（很多后端组件的源码分析系列）
+  url: http://www.iocoder.cn/
+
+- name: cms 的博客（github 头像的那个）
+  url: http://cmsblogs.com/
+
 - name: 徐刘根的专栏 （安卓转后端）
   url: http://blog.csdn.net/xlgen157387
+
 
 - name: ------------- 前端 ---------------
   url: #
