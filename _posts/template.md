@@ -1,9 +1,9 @@
 ---
 layout: post
-title: template page
-categories: [cate1, cate2]
-description: some word here
-keywords: keyword1, keyword2
+title: 《天才枪手》：迫不得已的 Bank
+categories: BookAndMovie
+description: 学霸帮富二代作弊，一念之间改变人生轨迹
+keywords: 电影 阶级差异 一念之间
 ---
 
 # 这本书/部电影 讲了什么
