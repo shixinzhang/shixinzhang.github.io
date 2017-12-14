@@ -1,11 +1,14 @@
 - name: ------------- 其他 ---------------
   url: #
 
-- name: Linux 算法 并发 Binder 都很好的 wangkuiwu 前辈
+- name: wangkuiwu 前辈（Linux 算法 并发 Binder 都很好）
   url: http://wangkuiwu.github.io/categories/
 
 - name: 桃小七的博客 （安卓开发，读书笔记写的很好）
   url: http://taoyuanxiaoqi.com/archives/
+
+- name: fpliu 的博客（前后移动端都有涉及）
+  url: http://blog.fpliu.com/it
 
 - name: ------------- 安卓 ---------------
   url: #
@@ -21,6 +24,9 @@
 
 - name: Gityuan 的博客（安卓 framework）
   url: http://gityuan.com/archive/
+
+- name: genglei 的博客（安卓 framework）
+  url: http://www.iloveandroid.net/archives/
 
 - name: Bugly 技术博客 （安卓的文章不错）
   url: http://dev.qq.com/
@@ -58,6 +64,8 @@
 - name: 徐刘根的专栏 （安卓转后端）
   url: http://blog.csdn.net/xlgen157387
 
+- name: ntop 的博客（安卓转后端，一些后端入门文章不错）
+  url: http://www.jianshu.com/u/cb878579a389
 
 - name: ------------- 前端 ---------------
   url: #
