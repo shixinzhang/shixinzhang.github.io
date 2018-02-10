@@ -14,11 +14,17 @@
 - name: fpliu 的博客（前后移动端都有涉及）
   url: http://blog.fpliu.com/it
 
+- name: JSPatch 作者前辈，iOS
+  url: http://blog.cnbang.net/archives/
+
 - name: ------------- 安卓 ---------------
   url: #
 
 - name: 低调帅气的人 （安卓）
   url: http://blog.csdn.net/u011240877
+
+- name: 振兴（58赶集 16 级安卓，源码分析文章）
+  url: http://dandanlove.com/archives/
 
 - name: glanwang 的博客（网易安卓 gradle 热更新的）
   url: http://glanwang.com/archives/
@@ -74,6 +80,9 @@
 - name: ntop 的博客（安卓转后端，一些后端入门文章不错）
   url: http://www.jianshu.com/u/cb878579a389
 
+- name: 阿飞（三年后台）
+  url: http://blog.csdn.net/u010648555
+
 - name: ------------- 前端 ---------------
   url: #
 
@@ -85,3 +94,9 @@
 
 - name: Node.js 社区及入门文章
   url: http://cnodejs.org/getstart
+
+- name: 强子（三年前端，工作总结写的不错）
+  url: http://blog.csdn.net/yisuowushinian
+
+- name: 前端 canvas 写的不错
+  url: https://github.com/Aaaaaaaty/blog
