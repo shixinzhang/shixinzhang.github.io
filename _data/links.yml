@@ -1,6 +1,4 @@
 
-- name: coder
-  url: http://candy.renleicoder.com/
 
 - name: ------------- 其他 ---------------
   url: #
@@ -22,6 +20,12 @@
 
 - name: 低调帅气的人 （安卓）
   url: http://blog.csdn.net/u011240877
+
+- name: 朋友任磊
+  url: http://candy.renleicoder.com/
+
+- name: 刘望舒的知识体系
+  url: http://liuwangshu.cn/system/
 
 - name: 振兴（58赶集 16 级安卓，源码分析文章）
   url: http://dandanlove.com/archives/
