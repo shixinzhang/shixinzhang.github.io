@@ -35,6 +35,7 @@ keywords: 思考，反馈
 
 Most people get ahead during the time that others waste.
 
+现在的人，不愿意埋头播种，却总羡慕别人的收获。
 
 ### 2018年3月19日星期1
 
