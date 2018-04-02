@@ -6,7 +6,7 @@ description: SSL 的一个拓展组件
 keywords: SSL SNI
 ---
 
-# 什么是 SNI (Server Name Indication)
+# SNI (Server Name Indication)
 
 > 本文翻译自：https://www.thesslstore.com/blog/what-is-sni/
 
@@ -14,7 +14,7 @@ keywords: SSL SNI
 
 SNI 即 Server Name Indication (服务名称证明)。
 
-SNI 是一个关键但又比较神秘的 SSL 组件，它 允许同一个 IP 地址上存在多个网站。不使用 SNI 的话，为了安装一个 SSL 证书，每个域名只能有一个 IP 地址。但 SNI 解决了这个问题。
+SNI 是一个关键但又比较神秘的 SSL 组件，它允许同一个 IP 地址上存在多个网站。不使用 SNI 的话，为了安装一个 SSL 证书，每个 IP 地址只能有一个域名。但 SNI 解决了这个问题。
 
 上面这段话啥意思呢，我们慢慢道来。
 

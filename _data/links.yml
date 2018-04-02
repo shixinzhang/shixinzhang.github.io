@@ -1,7 +1,19 @@
 
 
+- name: ------------- 阅读 ---------------
+  url: #
+
+- name: 工作多年前辈的书单
+  url: https://book.douban.com/people/3681478/collect
+
 - name: ------------- 其他 ---------------
   url: #
+
+- name: sketch 教程
+  url: http://sketch.im/index.php?m=content&c=index&a=lists&catid=2
+
+- name: 兰亭风雨，基础知识很扎实
+  url: https://blog.csdn.net/ns_code
 
 - name: wangkuiwu 前辈（Linux 算法 并发 Binder 都很好）
   url: http://wangkuiwu.github.io/categories/
@@ -14,6 +26,9 @@
 
 - name: JSPatch 作者前辈，iOS
   url: http://blog.cnbang.net/archives/
+
+- name: 工作多年的前辈，搞过 Android 应用及框架层开发，做过视频的点对点 P2P 传输系统
+  url: https://www.wolfcstech.com/archives/page/8/
 
 - name: ------------- 安卓 ---------------
   url: #
@@ -63,6 +78,9 @@
 - name: 这个人收藏了音视频的资料
   url: http://blog.csdn.net/a675311/article/list/5
 
+- name: 饿了么 暴打小女孩，2017 年毕业的
+  url: https://lizhaoxuan.github.io/archives/
+
 - name: ------------- 后端 ---------------
   url: #
 
@@ -96,8 +114,14 @@
 - name: ------------- 前端 ---------------
   url: #
 
+- name: 富途前端团队博客
+  url: https://futu.im/archives/
+
 - name: 关人潮前辈 （前端多年）
   url: http://fsux.me/archive.html#
+
+- name: 前端工程规范
+  url: https://haonancx.gitbooks.io/fees/content/
 
 - name: 从零开始学前端·目录
   url: https://zhuanlan.zhihu.com/p/22099626
