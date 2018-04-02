@@ -27,20 +27,20 @@ keywords: 思考，反馈
 - 这一个月咋过的
 - 这一年都做了什么值得说的事
 
-[架构设计师考试大纲](http://blog.csdn.net/matom/article/details/48269193)
+
 
 # 2018 年
 
 今年的计划
 
 - javascript书 4.7完成
-- 系统分析师考试 5月底完成
+- 系统分析师考试 5月底完成 [架构设计师考试大纲](http://blog.csdn.net/matom/article/details/48269193)
 - h5+css3+js书 六月底完成
 - 响应式书 七月底完成
 - 从零写web框架 八月底完成
 - 安卓框架源码 今年写完 okhttp okio ARouter 常见framework（binder context 四大组件启动流程）
 - 网络大厚书 12月底前完成
-- 
+- 一直推进 [安卓进阶学习指南](https://github.com/iwannabetop/Awesome-Android-Learning-Guide) 
 
 ## 4 月
 
