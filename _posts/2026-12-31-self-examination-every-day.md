@@ -33,13 +33,13 @@ keywords: 思考，反馈
 
 今年的计划
 
-- javascript书 4.7完成
-- 系统分析师考试 5月底完成 [架构设计师考试大纲](http://blog.csdn.net/matom/article/details/48269193)
+- 《JavaScript 忍者秘籍》 书评 4.7完成
+- 系统分析师考试 5 月 26 完成 [架构设计师考试大纲](http://blog.csdn.net/matom/article/details/48269193)
 - h5+css3+js书 六月底完成
 - 响应式书 七月底完成
 - 从零写web框架 八月底完成
 - 安卓框架源码 今年写完 okhttp okio ARouter 常见framework（binder context 四大组件启动流程）
-- 网络大厚书 12月底前完成
+- 网络大厚书 12 月底前完成
 - 一直推进 [安卓进阶学习指南](https://github.com/iwannabetop/Awesome-Android-Learning-Guide) 
 
 ## 4 月
@@ -62,10 +62,17 @@ keywords: 思考，反馈
 
 ## 3 月
 
-Most people get ahead during the time that others waste.
+> Most people get ahead during the time that others waste.
 
-现在的人，不愿意埋头播种，却总羡慕别人的收获。
+> 现在的人，不愿意埋头播种，却总羡慕别人的收获。
 
+
+三月份工作不怎么忙，主要做了这么几件事：
+
+1. 搞砸了肉肉的生日 T.T
+2. 开始阅读《JavaScript 忍者秘籍》
+3. 读完了《平凡的世界》三部
+4. 报名软考《系统分析师》
 
 ### 2018年3月31日星期6
 
