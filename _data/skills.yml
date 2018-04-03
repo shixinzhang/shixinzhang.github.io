@@ -2,9 +2,26 @@
   keywords:
       - Java
       - Python
+      - UML
+      - Algorithm
       - Design Patterns
 
 - name: Mobile Developer Keywords
   keywords:
       - Android
       - Reverse Engineering
+
+- name: Frontend Developer Keywords
+  keywords:
+      - JavaScript
+      - ES6
+      - HTML5
+      - CSS3
+      - Webpack
+
+- name: Backend Developer Keywords
+  keywords:
+      - Servlet
+      - Jsp
+      - JDBC
+      - Spring
