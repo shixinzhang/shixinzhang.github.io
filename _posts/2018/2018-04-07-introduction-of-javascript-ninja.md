@@ -6,6 +6,8 @@ description: 一本技术书的书评
 keywords: JavaScript
 ---
 
+一个月读完了这本书，deadline 果然是第一生产力！
+
 ![](https://www.epubit.com/oldres/writeBookImg/C4B34BF5-3733-45E9-993E-96EE92BEBB1F)
 
 ## 我对好技术书的定义
