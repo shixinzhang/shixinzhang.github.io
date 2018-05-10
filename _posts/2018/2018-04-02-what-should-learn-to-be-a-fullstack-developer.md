@@ -27,6 +27,8 @@ keywords: 思考，反馈
 - [DOM 标准](https://dom.spec.whatwg.org/)
 - https://developer.mozilla.org/zh-CN/docs/Web/Guide/AJAX
 - [一个获取数据的例子，可以学学](https://mdn.github.io/learning-area/javascript/apis/fetching-data/can-store/) 
+- [生命一号前端学习文章](http://www.cnblogs.com/smyhvae/category/740114.html)
+- [声享，很棒的前端 ppt 分享](https://ppt.baomitu.com/u/shi-nian-zong-ji)
 
 个人博客：
 
@@ -55,7 +57,7 @@ keywords: 思考，反馈
 学习网站：
 
 - [后端源码分析，这人是全栈](https://www.jianshu.com/u/f7daa458b874)
-
+- [SpringMVC+MyBatis](https://blog.csdn.net/eson_15)
 
 
 # 云计算

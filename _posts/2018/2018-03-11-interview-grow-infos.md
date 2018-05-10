@@ -25,6 +25,10 @@ keywords: 安卓 面试 资料
 
 - 一个不错的基础知识复习资料，包括操作系统、网络原理啥的：https://github.com/iwannabetop/Interview-Notebook
 
+## 小题目
+
+先问你内存怎么优化，你回答完bitmap io 线程池这些，又继续追问你bitmap怎么优化，线程池怎么优化
+
 ## 2018 新鲜面试题
 
 
@@ -38,3 +42,4 @@ keywords: 安卓 面试 资料
 ![](http://oqg4nua5z.bkt.clouddn.com/%E9%9D%A2%E8%AF%95%E9%A2%984.jpeg)
 
 
+![](http://oqg4nua5z.bkt.clouddn.com/blog/%E9%9D%A2%E8%AF%95.jpeg)
