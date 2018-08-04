@@ -6,6 +6,9 @@ description: 记录前端后台需要学习的内容
 keywords: 思考，反馈
 ---
 
+互联网创业公司，早期一般都是同事、同学或者朋友联合创业，早期的CTO可能就是一个技术工程师来担任，对产品与技术能力要求也并不是特别强，能够将基本产品设计开发出来就ok了。
+
+但是A轮融资之后，用户量、交易量、并发量等等面临快速增长，对技术架构、后台性能、用户体验、安全性、产品矩阵、开发效率、人员管理等都提出了更高的挑战，这时候早期的CTO短板就出现了。很多创业公司的CTO不能因应快速成长，个人技能迭代跟不上公司发展需要，就不得不被重构（换人～），例如滴滴出行，拉勾网等很多公司在A后就换CTO了！
 
 # 前端学习内容记录
 
@@ -125,6 +128,7 @@ keywords: 思考，反馈
 - 熟练使用MySQL数据库, 有良好的数据库操作和维护经验；
 - 熟悉配置Java环境配置
 
+![](https://img-blog.csdn.net/20180805000410355?watermark/2/text/aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3UwMTEyNDA4Nzc=/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70)
 
 ![](http://oqg4nua5z.bkt.clouddn.com/blog/backend.jpeg)
 
