@@ -16,7 +16,7 @@ keywords: 思考，反馈
 **2026年12月31日** 到这时你会到什么程度呢？
 
 
-来自岛国的KPT(Keputo)方法，来如何呈述你一天/周的工作
+KPT(Keputo)方法，来如何呈述你一天/周的工作
 
 - Keep: 你正在做什么
 - Problem: 你遇到了什么问题
@@ -28,7 +28,7 @@ keywords: 思考，反馈
 - 这一周干了啥
 - 这一个月咋过的
 - 这一年都做了什么值得说的事
-
+- 在公司做了什么项目，如何做的，使用了什么技术，是怎么考虑的，遇到了什么问题如何解决的之类的问题
 
 
 # 2018 年
@@ -37,16 +37,43 @@ keywords: 思考，反馈
 
 - [✔️]《JavaScript 忍者秘籍》 书评 4.7完成
 - [❌] 系统分析师考试 5 月 26 完成 [架构设计师考试大纲](http://blog.csdn.net/matom/article/details/48269193)
-- [ x ] h5+css3+js 书 六月底完成
-- [ x ] 响应式书 七月底完成
+- [ ❌ ] h5+css3+js 书 六月底完成
+- [ ❌ ] 响应式书 七月底完成
 - [ ] 从零写web框架 八月底完成
 - [ ] 安卓框架源码 今年写完 okhttp okio ARouter 常见framework（binder context 四大组件启动流程）
 - [ ] 网络大厚书 12 月底前完成
-- [ ] 一直推进 [安卓进阶学习指南](https://github.com/iwannabetop/Awesome-Android-Learning-Guide) 
+- [ ❌ ] 一直推进 [安卓进阶学习指南](https://github.com/iwannabetop/Awesome-Android-Learning-Guide) 
 - [ ] 使用小肉账号购买的两年阿里云
+
+## 8 月
+
+### 2018年8月4日星期6
+
+1.[如何在三年内快速成长为一名技术专家](https://gitbook.cn/books/59ac075a931f212130c124a6/index.html)
+
+那么如何由点到面，由面到体，形成系统化学习
+
+> 首先要确定学习的知识领域，需要达成的学习目标，针对目标制定学习计划，就像你要写一本书一样，先把目录写出来，然后根据目录上的知识点逐步去学习，最后把这些知识点关联起来，形成一个系统化的知识体系。学习的时候，可以制定一个计划，以周为单位，比如第一周学什么，第二周学什么。
+> 
+> 成长必须经历一个步骤，就是把知识内化成能力。**知识是用脑记住的，能力是用手练习出来的。**
+
+2.前端入门博客
+
+- [如何从零开始自学前端](https://gitbook.cn/books/5917121615da5d7d54ef3e69/index.html)
+- [前端大师炼成记：初中级前端成长指南](https://gitbook.cn/books/5a8ec159f2e5dc2ca621871b/index.html)
+- [浅谈从前端小工到工程师的三年转换](https://gitbook.cn/books/5b1cfad8c40ab27b8829c30e/index.html)
+- [从前端菜鸟到大V的成长经验分享](https://gitbook.cn/books/5ae66ed0e9a7f01a861df544/index.html)
+- [当我们谈论前端架构时，我们到底在谈论什么？](https://gitbook.cn/books/595b66e8683d585cbf388941/index.html)
+
+### 2018年8月3日星期5
+
+1.她妹拿到了 BR 的 offer，现在来看，每一个选择，都有其好的一面，不论当初看起来多么后悔，只要态度积极，总不至于太差！
+
+
 
 ## 7 月
 
+### 2018年7月
 
 ### 2018年7月12日星期4
 

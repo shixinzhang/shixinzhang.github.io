@@ -20,6 +20,80 @@ keywords: 思考，反馈
 4. 熟悉模块化、前端编译和构建工具，熟练运用主流的移动端JS库和开发框架，并深入理解其设计原理，例如：ReactJS、Zepto、AntD等；
 5. 能提供完善的WebApp和混合App（JS方向）技术方案，有服务端（node/java或其他语言）或native移动应用开发经验更佳；
 
+知识点：
+
+- JS 特殊概念：闭包，作用域，原型，异步，Promise，递归。不是说记住这些概念，而是切实理解，并且可以熟练运用。面试官不会问你闭包是什么（如果这样问了，那这个面试官的面试能力值得怀疑），而是可能会给你一个场景题目，让你给出答案。
+- 正则，至少可以用简单的正则语法。
+- 网络，缓存相关，http method，http status code，cookie session 相关，跨域相关，最经典的一个题目：浏览器输入 url 之后发生了什么事情。
+- 常见框架（React，Vue）的使用，分层，周边技术栈，组件通信，组件设计，webpack等。
+- 开发调试相关，网络调试工具，H5 调试方法，静态资源托管，git 代码管理，mock 方法等等。
+- ES6 ES7 新语法类
+
+知识点2：
+
+- 模块化(amd/cmd/umd/ES6 module)
+- 跨域多种方式，如jsonp
+- js
+ - javascript中的this指向问题
+ - js异步加载
+ - js创建对象的几种方式
+ - js继承的几种方式与优缺点
+ - js捕获与冒泡
+- SEO
+- promise与generator
+- 服务器推
+- jQuery相关
+- IE内存泄露
+- CORS
+- AJAX的几种状态，ajax与fetch，hijax
+- iframe与onload阻塞主页面
+- 前端安全与CSRF，XSS，SQL注入，DDOS
+- drag和drop实现拖拽
+- cookie/session/本地存储
+- 雅虎网站优化的军规
+- css与js的阻塞加载
+- chrome/IE浏览器事件兼容
+- css相关
+ - 垂直水平居中
+ - 盒模型
+ - 浮动与定位
+ - css性能
+ - css3的新特性，如flex布局等
+- 排版引擎与js引擎
+- GPU加速与动画性能
+- DOM1,DOM2,DOM3规范
+- h标签与title标签
+- em与百分比等
+- 浏览器缓存与应用缓存
+- div与table布局
+- web标准
+- css的hack技术
+- png/jpg/webp图片格式
+- canvas与svg
+- 响应式布局
+- link与import区别
+- 三栏自适应
+- b和strong,i和em区别
+- 减少页面回流
+- BFC
+- 硬件加速与动画优化
+- 前端自动化相关
+- webpack相关
+ - webpack-dev-server相关
+ - 单页面打包工具+多页面打包工具
+- babel相关
+- 其他知识
+ - http/1.1与http2
+ - http三次握手协议
+ - http状态码
+ - json与xml
+- 前端性能优化
+- nodejs/npm相关内容
+- 算法
+ - 几种排序算法
+ - 回文字符
+ - 递归(很重要)
+ - 其他常见的前端算法
 
 学习网站：
 
