@@ -1,3 +1,10 @@
+---
+layout: post
+title: 毕业两年总结
+categories: Life
+description: 回顾一下这几年
+keywords: 总结
+---
 
 
 去年七月写了[《毕业一年总结》](https://blog.csdn.net/u011240877/article/details/74503788)，一转眼就又是七月。过去这一年经历了不少事，回头看看，大多数选择还是比较满意的。今天趁着有空，对毕业后的第二年做个总结吧。
