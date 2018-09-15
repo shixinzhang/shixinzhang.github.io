@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>box-model</title>
+	<style type="text/css">
+				/* General styles */
+		body {
+		  margin: 0;
+		}
+
+		#wrapper * {
+		  padding: 20px;
+		  font-size: 20px;
+		  border: 20px solid rgba(0,0,0,0.5);
+		}
+
+		/* specific boxes */
+
+		#wrapper header, #wrapper footer {
+		  background-color: blue;
+		  color: white;
+		}
+
+		#wrapper main {
+		  background-color: yellow;
+		  margin: 30px;
+		  padding: 30px;
+		  border-width: 5%;
+		  width: 60%;
+		  height: 20px;
+		  overflow: auto;
+		}
+
+		#wrapper header {
+
+		}
+
+		#wrapper footer {
+
+		}
+	</style>
+</head>
+<body>
+	<div id="wrapper">
+	  <header>Header</header>
+	  <main>
+	  	<p>Main content
+	  		Main content
+	  		Main content
+	  		Main content
+	  	</p>
+	  </main>
+	  <footer>Footer</footer>
+	</div>
+</body>
+</html>
