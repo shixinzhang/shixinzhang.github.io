@@ -22,6 +22,11 @@ permalink: /about/
 
 ![](http://img.blog.csdn.net/20160923012706321)
 
+## 年度总结
+
+- [2016 总结](https://blog.csdn.net/u011240877/article/details/53961190)
+- [2017 总结](https://blog.csdn.net/u011240877/article/details/78967014)
+
 ## 联系
 
 {% for website in site.data.social %}

@@ -114,6 +114,9 @@
 - name: ------------- 前端 ---------------
   url: #
 
+- name: 国外的 js 学习系列文章 *
+  url: https://www.quirksmode.org/js/contents.html
+
 - name: 富途前端团队博客
   url: https://futu.im/archives/
 
