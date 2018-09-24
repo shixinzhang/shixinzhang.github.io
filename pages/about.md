@@ -18,9 +18,10 @@ permalink: /about/
 
 生活相关发表在 简书：<http://www.jianshu.com/u/8e8ad16d1fcf>
 
-欢迎扫码关注我的公众号“安卓进化论”，分享技术和人生思考。
+欢迎扫码关注我的公众号“zsx跃迁路”，分享技术和人生思考:
 
-![](http://img.blog.csdn.net/20160923012706321)
+![](http://oqg4nua5z.bkt.clouddn.com/blog/0_wechat_public.png)
+
 
 ## 年度总结
 
