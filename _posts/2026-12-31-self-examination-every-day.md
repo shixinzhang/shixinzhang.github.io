@@ -37,7 +37,7 @@ KPT(Keputo)方法，来如何呈述你一天/周的工作
 
 - [✔️]《JavaScript 忍者秘籍》 书评 4.7完成
 - [❌] 系统分析师考试 5 月 26 完成 [架构设计师考试大纲](http://blog.csdn.net/matom/article/details/48269193)
-- [ ❌ ] h5+css3+js 书 六月底完成
+- [ ❌ ] 前端入门六月底完成（h5+css3+js 书 or 视频 or 百度前端技术学院）
 - [ ❌ ] 响应式书 七月底完成
 - [ ] 从零写web框架 八月底完成
 - [ ] 安卓框架源码 今年写完 okhttp okio ARouter 常见framework（binder context 四大组件启动流程）
