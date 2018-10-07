@@ -1,0 +1,225 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>定位练习</title>
+	<style type="text/css">
+		* {
+			box-sizing: border-box;
+		}
+
+		.just-a-square {
+			width: 100px;
+			height: 100px;
+			background-color: orange;
+		}
+
+		.main {
+			width: 100%;
+			background-color: #eee;
+			overflow: hidden;
+			/*position: relative;*/
+		}
+
+		.left {
+			background-color: red;
+			width: 100px;
+			float: left;
+			/*position: absolute;
+			left: 0;
+			top: 0;*/
+		}
+
+		.middle {
+			background-color: green;
+			width: calc(100%-200px);
+			float: left;
+			/*position: absolute;
+			left: 110px;
+			top: 10px;*/
+		}
+
+		.right {
+			background-color: blue;
+			width: 100px;
+			float: right;
+			/*position: absolute;
+			right: 0;
+			top: 0;*/
+		}
+
+		.clearfix {
+			clear: both;
+		}
+
+		.inline-center-parent {
+			text-align: center;
+			background-color: #3333;
+		}
+
+		.inline-center-child {
+			display: inline-block;
+		}
+
+		.block-center-parent {
+			width: 200px;
+			margin: 0 auto;
+		}
+
+		.not-fixed-width-block-center-parent {
+			text-align: center;
+		}
+
+		.not-fixed-width-block-center-parent ul{
+			list-style: none;
+			display: inline-block;
+			margin-top: 20px;
+			padding: 0;
+		}
+
+		.not-fixed-width-block-center-parent li{
+			display: inline-block;
+		}
+
+		.box-parent {
+			width: 300px;
+			height: 300px;
+			border: 2px solid #ccc;
+			line-height: 300px;
+		}
+
+		.inline {
+			display: inline-block;
+		}
+
+		.block-v-center-parent {
+			display: table-cell;
+			vertical-align: middle;
+		}
+
+		.box-parent-2 {
+			width: 300px;
+			height: 300px;
+			border: 2px solid #ccc;
+		}
+
+		.box-parent-3 {
+			width: 300px;
+			list-height: 300px;
+			border: 2px solid #ccc;
+		}
+
+		.center-text-parent {
+			text-align: center;
+			line-height: 300px;
+		}
+
+		.center-img-parent {
+			text-align: center;
+			line-height: 140px;
+			/*height: 140px;*/
+			width: 400px;
+			background: grey;
+		}
+
+		.center-img-child {
+			width: 140px;
+			height: 100px;
+			vertical-align: middle;
+		}
+
+		.position-center-parent {
+			position: relative;
+		}
+
+		.position-center-child {
+			position: absolute;
+			top: 0;
+			left: 0;
+			right: 0;
+			bottom: 0;
+			height: 50px;
+			width: 150px;
+			margin: auto;
+		}
+	</style>
+</head>
+<body>
+
+	<div>
+		<a href="http://www.cnblogs.com/chaixiaozhi/p/8490725.html">学习链接</a>
+	</div>
+	<br/>
+
+	<div class="main">
+		<div class="left">left</div>
+		<div class="middle">middle</div>
+		<div class="right">right</div>
+	</div>
+
+	<div class="clearfix"></div>
+
+	<div class="clearfix">
+		<h1>1.水平居中</h1>
+
+		<h2>1.1行内元素 水平居中</h2>
+		<!-- 父元素中 text-align: center; 然后把子元素改成行内元素 display-block -->
+		<div class="inline-center-parent">
+			<div class="inline-center-child">我想居中可以吗</div>
+			<div class="inline-center-child just-a-square"></div>
+		</div>
+
+		<h2>1.2块状元素 水平居中</h2>
+		<!-- 块状元素默认是占整行，通过设置左右边距来实现居中 -->
+		<div class="block-center-parent">
+			<div>我是一个块状元素</div>
+		</div>
+
+		<div class="not-fixed-width-block-center-parent">
+			<ul>
+				<li><a href="#">1</a></li>
+				<li><a href="#">2</a></li>
+				<li><a href="#">3</a></li>
+			</ul>
+		</div>
+	</div>
+
+
+	<div class="clearfix">
+		<h1>2.垂直居中</h1>
+
+		<h2>2.1 行内元素 高度是包裹内容</h2>
+		<!-- 设置父容器 line-height 为其高度来使得元素垂直居中 -->
+		<div class="box-parent fix-line-height-parent">
+			<span style="background: red">行内元素001</span>
+			<div class="just-a-square inline"></div>
+		</div>
+
+		<h2>2.2 块状元素 高度未知</h2>
+
+		<div class="box-parent-2 block-v-center-parent">
+			<div style="background: green;">123</div>
+		</div>
+	</div>
+
+	<div class="clearfix">
+		<h1>3.水平垂直居中</h1>
+
+		<h2>3.1 水平对齐+行高</h2>
+		<!-- text-align 实现水平居中，然后设置行高为父容器一样高即可 -->
+		<div class="box-parent-2 center-text-parent">
+			text-align 实现水平居中，行高=父容器
+		</div>
+
+		<h2>3.2 图片居中</h2>
+		<div class="center-img-parent">
+			<img class="center-img-child" src="../images/0.jpg">
+		</div>
+
+		<h2>3.3 使用定位实现</h2>
+		<!-- 在偏移属性为确定值的基础上，设置margin:auto -->
+		<div class="box-parent-2 position-center-parent">
+			<div class="position-center-child">在偏移属性为确定值的基础上，设置margin:auto</div>
+		</div>
+	</div>
+</body>
+</html>
