@@ -1,0 +1,200 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>网站首页布局</title>
+	<style type="text/css">
+		* {
+			box-sizing: border-box;
+		}
+		body {
+			margin: 0;
+			min-width: 600px;
+		}
+
+		.no-m-p {
+			margin: 0;
+			padding: 0;
+		}
+
+		.container {
+			/*margin: 0 auto;
+			max-width: 1080px;*/
+		}
+
+		.footer {
+			height: 80px;
+			background-color: #666;
+		}
+
+		.footer p {
+			color: white;
+			text-align: center;
+			line-height: 80px;
+		}
+
+		.header {
+			height: 50px;
+			background: black;
+		}
+		
+		.header #logo {
+			color: white;
+			line-height: 50px;
+			position: relative;
+			left: 200px;
+			font-size: 1.2em;
+			display: inline-block;
+		}
+
+		.header ul {
+			float: right;
+			margin-right: 200px;
+			margin-top: 10px;
+		}
+
+		.header ul li {
+			list-style: none;
+			float: left;
+			margin-right: 10px;
+			font-size: 0.8em;
+		}
+
+		.header ul li:nth-of-type(3) {
+			margin-right: 0;
+		}
+
+		.header ul li a {
+			color: white;
+			/*text-decoration: none;*/
+		}
+
+		.banner {
+			height: 200px;
+			background: lightgreen;
+			position: relative;
+		}
+
+		.banner ul {
+			position: absolute;
+			right: 200px;
+			bottom: 10px;
+		}
+
+		.banner ul li, .navs ul li{
+			list-style: none;
+			margin-right: 4px;
+			font-size: 0.6em;
+			float: left;
+			background: #eee;
+			border: solid #eee;
+			width: 22px;
+			height: 25px;
+			text-align: center;
+		}
+
+		.banner ul li a, .navs ul li a {
+			text-decoration: none;
+		}
+
+		.banner ul li:nth-of-type(1), .banner ul li:hover {
+			background: white;
+			color: red;
+			border: solid white;
+		}
+
+		.navs {
+			height: 70px;
+			position: relative;
+		}
+
+		.navs ul{
+			position: absolute;
+			left: 200px;
+			bottom: -1px;
+			border: 0;
+		}
+
+		.navs ul li {
+			width: 100px;
+			height: 50px;
+			border: 1px solid #ccc;
+			border-radius: 15px 15px 0 0;
+		}
+
+		.navs ul li:nth-of-type(1), .navs ul li:hover {
+			background: white;
+			border-bottom-style: none;
+		}
+
+		.navs ul li a {
+			line-height: 50px;
+			font-size: 1.5em;
+		}
+
+		#navs-bottom-divider {
+			margin:0;
+			border: 0.5px solid #ccc;
+		}
+
+		.contents {
+			width: 960px;
+			height: 650px;
+			margin: 0 auto;
+			display: flex;
+			flex-flow: row wrap;
+		}
+
+		.contents div {
+			padding: 80px;
+			margin: 5px;
+			border: 1px solid #aaa;
+			/*flex: 1 100px 80px;*/
+		}
+	</style>
+</head>
+<body>
+<div class="container">
+	<div class="header no-m-p">
+		<p id="logo" class="no-m-p">Logo</p>
+		<ul class="no-m-p">
+			<li><a href="#Github">Github</a></li>
+			<li><a href="#Register">Register</a></li>
+			<li><a href="#Login">Login</a></li>
+		</ul>
+	</div>
+
+	<div class="banner">
+		<ul class="no-m-p">
+			<li><a href="#1">1</a></li>
+			<li><a href="#2">2</a></li>
+			<li><a href="#3">3</a></li>
+			<li><a href="#4">4</a></li>
+		</ul>
+	</div>
+
+	<div class="navs">
+		<ul class="no-m-p">
+			<li><a href="#home">HOME</a></li>
+			<li><a href="#PROFILE">PROFILE</a></li>
+			<li><a href="#ABOUT">ABOUT</a></li>
+		</ul>
+	</div>
+	<hr id="navs-bottom-divider">
+	<div class="contents">
+		<div>内容 1</div>
+		<div>内容 2</div>
+		<div>内容 3</div>
+		<div>内容 4 小四郭敬明</div>
+		<div>第 5 部分内容五福临门</div>
+		<div>第 6 部分内容六六大顺</div>
+		<div>第 7 部分内容哈</div>
+		<div>第 8 部分内容</div>
+		<div>第 9 部分内容九九归一九五之尊九阳神功九头蛇九州同庆九九八十一</div>
+	</div>
+	<div class="footer">
+		<p>©️ 2018 张拭心</p>
+	</div>
+</div>
+</body>
+</html>
