@@ -1,7 +1,7 @@
 ---
 layout: post
 title: AndroidFramework 之初识输入事件传递机制
-categories: AndroidFramework
+categories: Android
 description: 路线指导
 keywords: Android, Framework, 源码
 ---
