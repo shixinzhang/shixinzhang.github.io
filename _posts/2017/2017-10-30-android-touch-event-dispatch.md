@@ -18,8 +18,9 @@ keywords: 安卓 事件分发
 
 
 
-**执行顺序：**
+# 执行顺序
 
+**先后执行顺序：**
 
 
 1. ``onInterceptTouchEvent()`` 决定要不要拦截这个事件
@@ -27,6 +28,7 @@ keywords: 安卓 事件分发
 3. ``onTouchEvent()`` 根据事件做相应的处理，返回结果表示当前的处理是否结束，没结束就调用父布局的处理
 4. ``OnClickListener.onClick()`` 外层设置的点击处理逻辑
 
+![](http://oqg4nua5z.bkt.clouddn.com/blog/0-event-dispatch.png)
 
 > ``onLongClickListener`` 在 ``onClickListener`` 前面，它的返回值决定要不要调用 ``onClickListener`` 。
 
