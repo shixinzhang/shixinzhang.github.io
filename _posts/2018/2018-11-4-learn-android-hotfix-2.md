@@ -38,6 +38,7 @@ keywords: Android hotfix
 
 >挖坑待补
 
+![](https://upload-images.jianshu.io/upload_images/3622938-f0d5f6ec5e255511.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/826/format/webp)
 
  
 
@@ -47,4 +48,6 @@ keywords: Android hotfix
 
 # 参考资料
 
-主要学习自《深入探索 Android 热修复原理》
+- 《深入探索 Android 热修复原理》
+- [Android热修复原理（一）热修复框架对比和代码修复](https://blog.csdn.net/itachi85/article/details/79522200)
+- [Android 热修复(全网最简单的热修复讲解)](https://www.jianshu.com/p/d17519d4952e)
