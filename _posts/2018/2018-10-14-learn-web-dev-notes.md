@@ -54,3 +54,34 @@ keywords: 前端 笔记
 			font-size: 20px;
 		}
 ```
+
+2018.11.6
+
+## 4.图片相对地址前没有斜线
+
+当前 html 文件和 images 目录同级，加载 images 文件夹中的图片，就是以下的方式：
+
+```
+<img src="images/mobile.png" alt="mobile-first" />
+```
+
+
+## 5.padding 四个值的顺序
+
+从上开始顺时针走，上 右 下 左。
+
+```
+padding: 30px 0 30px 60px;
+```
+
+上述的代码表示上边和下边是 30px，右边为 0，左边为 60px.
+
+## 6.border-radius 四个值的顺序
+
+从左上角开始，顺时针走。
+
+```
+border-radius: 35px 0 0 35px
+```
+
+上述的代码表示左上角和左下角圆角为 35px。
