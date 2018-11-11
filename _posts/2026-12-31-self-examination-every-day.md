@@ -46,6 +46,10 @@ KPT(Keputo)方法，来如何呈述你一天/周的工作
 
 ## 11 月
 
+### 2018年11月6日星期二
+
+[这个人的博客](https://www.jianshu.com/u/ce54e5c21032)看起来很厉害啊，是我学习的方向，收藏了！
+
 ### 2018年11月5日星期一
 
 1.我们都知道 ``ContentProvider`` 的 ``onCreate`` 的调用时机介于 ``Application`` 的 ``attachBaseContext`` 和 ``onCreate`` 之间，Lifecycle 这么做，把 init 的逻辑放到库内部，让调用方完全不需要在 ``Application`` 里去进行初始化了，十分方便。
