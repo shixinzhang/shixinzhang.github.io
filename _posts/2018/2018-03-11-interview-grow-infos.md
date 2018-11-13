@@ -117,6 +117,42 @@ https的原理就是，用对称加密方式加密传输数据，用非对称加
 13. 比特币钱包的加密算法、比特币原理，区块链的运用场景
 14. Java内存回收机制，讲讲引用计数法和可达分析算法，可以作为GC Roots的对象由哪些
 
+ 
+### 爱回收
+
+
+* 自定义view
+* 有没有自定义过gradle插件
+* mvvm mvp 
+* listview recyclerview 异同
+* 简述java常用的数据结构
+* hashmap sparsearray区别 对比
+* 项目难点，如何解决
+* 某个文件夹下全部的文件名 
+* 常用框架源码解析
+* jetpack库
+
+
+
+### 喜马拉雅
+
+
+* 项目难点，如何解决
+* 常用框架源码解析
+* mvvm mvp
+* 多线程同步，乐观锁 悲观锁
+* 某个文件夹下全部的文件名 
+* 同步锁在方法 静态方法  类 对象 区别
+* view绘制流程 从xml->java
+* 自定义view  onmeasure->onlayout->ondraw 具体
+* 一个int[]包含多个int值，o(1)剔除
+* 手写伪代码框架代码
+* currxxxxhanshmap用过吗（答：没）
+* hashmap 源码
+* 树查询。。。
+
+
+##面试总结
 
 ![](http://oqg4nua5z.bkt.clouddn.com/%E9%9D%A2%E8%AF%95%E9%A2%981.jpeg)
 
