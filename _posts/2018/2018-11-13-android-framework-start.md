@@ -1,6 +1,6 @@
 ---
 layout: post
-title: AndroidFramework: 从系统启动到应用启动、消息循环
+title: AndroidFramework 之系统启动到应用启动、消息循环
 categories: Android
 description: 学习安卓源码笔记
 keywords: Android
