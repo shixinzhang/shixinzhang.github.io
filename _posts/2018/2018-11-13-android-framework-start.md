@@ -19,6 +19,7 @@ init.rc -> Zygote ->
 - 消息的处理
 - 消息的发送
 
-### 消息循环创建过程
+## 消息循环创建过程
 
 Java 层 Looper.prepare() -> new MessageQueue() -> C++ 层 NativeMessageQueue -> C++ 层 Looper -> 创建管道，保存读写文件描述符 ->.epoll 实例监听这个管道
+
