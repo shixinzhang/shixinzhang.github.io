@@ -1,6 +1,6 @@
 ---
 layout: post
-title: React 小练习：实现一个 todolist
+title: React 笔记：实现一个 todolist
 categories: FrontEnd
 description: 通过练习上手 React
 keywords: 前端 React

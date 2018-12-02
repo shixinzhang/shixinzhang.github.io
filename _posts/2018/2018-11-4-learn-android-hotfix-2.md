@@ -38,6 +38,8 @@ keywords: Android hotfix
 
 >挖坑待补
 
+![](https://user-gold-cdn.xitu.io/2018/11/12/16707451cd4a4180?imageView2/0/w/1280/h/960/format/webp/ignore-error/1)
+
 ![](https://upload-images.jianshu.io/upload_images/3622938-f0d5f6ec5e255511.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/826/format/webp)
 
  
