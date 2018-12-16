@@ -8,6 +8,7 @@ keywords: 读书笔记
 
 # 这本书讲了什么
 
+![](https://gss1.bdstatic.com/9vo3dSag_xI4khGkpoWK1HF6hhy/baike/w%3D268%3Bg%3D0/sign=a8467c755866d0167e19992eaf10b33a/5243fbf2b211931321e300086f380cd790238de2.jpg)
 
 - 在极度浮浅的状态下时间久了，将**永久降低**自己深度工作的能力
 - 深度工作要求长时间无干扰的思考，高度专注
