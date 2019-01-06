@@ -50,6 +50,98 @@ KPT(Keputo)方法，来如何呈述你一天/周的工作
 
 谁陷在沼泽中呢？知道不能这样，却无法改变的人
 
+### 2018年12月31日星期一
+
+
+1.https://blog.csdn.net/luoshengyang/article/details/42555483
+
+ART运行时垃圾收集（GC）过程分析
+
+2.类锁锁字节码也就是class文件
+对象锁只能锁class的一个实例
+
+3.局部内部类访问变量必须 final 的原因：程序设计语言的设计是受到实现技术的限制的。
+
+Java 方法结束后局部变量就会销毁，但局部内部类对象还存在，出现了一个”荒唐”结果:局部内部类对象inner_object要访问一个已不存在的局部变量i!
+
+要实现外部方法生命周期结束后，局部内部类还能访问外部的变量，将变量赋值一份，使用 final 保证不变性。
+
+>一句话:这个规定是一种无可奈何
+
+https://blog.csdn.net/lhy_847csdn/article/details/80645253
+
+### 2018年12月30日星期日
+
+1.https://github.com/iwannabetop/matrix
+
+微信这个 APM 库能学的很多，尤其是那个移除无用资源的 gradle-plugin，明年得学会写这个了
+
+2.2019 学习计划：
+
+1. Android Framework （3 个月）
+2. Gradle-plugin（1 个月）
+3. 插件化-热修复（3个月）
+4. 组件化 （1个月）
+5. 前端 （半年）
+6. APM
+ - https://github.com/iwannabetop/matrix
+
+https://docs.gradle.org/current/userguide/custom_plugins.html
+
+3.沟通存在问题，谁能主动推动
+
+### 2018年12月29日星期六
+
+1.对待焦虑、拖延的最好办法就是立即行动，哪怕是做最小的一件事
+
+2.WeakHashMap 实现原理
+
+一般情况下，一个对象标记为垃圾（并不代表回收了）后，会加入到引用队列。
+对于虚引用来说，它指向的对象会只有被回收后才会加入引用队列，所以可以用作记录该引用指向的对象是否回收。
+
+WeakHashMap的Entry继承了WeakReference。
+其中Key作为了WeakReference指向的对象
+因此WeakHashMap利用了WeakReference的机制来实现不阻止GC回收Key
+
+[当key不再引用时，其对应的key/value也会被移除]
+WeakHashMap采用的是轮询的形式，在其put/get/size等方法调用的时候都会预先调用一个poll的方法，来检查并删除失效的Entry
+
+https://droidyue.com/blog/archives/
+
+### 2018年12月28日星期五
+
+扎实安卓技术，是为了有实力应对更大的技术挑战。但目的不至于此，目的是多参与做优秀的产品，更好的了解社会与人性，并产出价值。
+
+互联网行业，不同方向人的切入点不同，我的切入点是安卓，就要先做好这个，然后再横向拓展，不限于安卓。
+
+[一键六学](http://bog.ac/tool/6/#)
+
+### 2018年12月27日星期四
+
+长期价值不来自简单的have fun，have fun可以提供短期价值，也就是好玩、有趣可以在短期黏着用户，但是更长期的价值极有可能来自新的关系链/社群认同。
+
+### 2018年12月26日星期三
+
+1.``ConcurrentSkipListMap`` 与 ``concurrentHashMap``
+
+https://www.cnblogs.com/ygj0930/p/6543901.html
+https://blog.csdn.net/coslay/article/details/44819823
+
+>concurrentHashMap与ConcurrentSkipListMap性能测试 
+在4线程1.6万数据的条件下，ConcurrentHashMap 存取速度是ConcurrentSkipListMap 的4倍左右。
+
+>但ConcurrentSkipListMap有几个ConcurrentHashMap 不能比拟的优点：
+
+>ConcurrentSkipListMap 的key是有序的。
+ConcurrentSkipListMap 支持更高的并发。ConcurrentSkipListMap 
+的存取时间是log（N），和线程数几乎无关。也就是说在数据量一定的情况下，并发的线程越多，ConcurrentSkipListMap越能体现出他的优势。
+
+### 2018年12月25日星期二
+
+1. 每个让人费解的纠结问题，背后一定是愚蠢的小错误。
+2. transform 是官方提供的 class -> dex 的一系列过程
+3. 一天下来效率不高啊，费解，时间管理
+
 
 ### 2018年12月24日星期一
 
