@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 十年大计，日拱一卒
+title: 2018 年的一些总结
 categories: Plan
 description: 及时反省，每天哪怕只有一句
 keywords: 思考，反馈
