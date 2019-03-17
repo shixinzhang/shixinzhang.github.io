@@ -9,6 +9,7 @@ keywords: 网络 基础
 
 这本书读了有段时间了，最近又翻出来读了读，顺便把笔记整理一下吧。
 
+![](https://gss3.bdstatic.com/-Po3dSag_xI4khGkpoWK1HF6hhy/baike/w%3D268%3Bg%3D0/sign=8dbaa65f067b02080cc938e75ae295ee/9d82d158ccbf6c8163b6a212b03eb13532fa4043.jpg)
 
 网络协议经典书：
 
@@ -675,18 +676,16 @@ HTTPS 比 HTTP 要慢 2 到 100 倍，是因为通信过程略复杂，除去 TC
 
 
 
+# 基于 HTTP 的协议
+
+- SPDY
+- WebSocket
+- WebDAV
+
 # Web  安全
 
 
 
-服务端应如何保存用户密码等登录信息没有标准化，通信
+服务端应如何保存用户密码等登录信息没有标准化，一种安全的保存方法是：
 
 
-
-- HTTPS
-
-- SSL
-
-- 证书认证
-
-- 加密机制

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Java 网络编程之 HTTP 与 Cookie
-categories: Java 网络编程
+categories: 网络编程
 description: Java 网络编程之 HTTP 与 Cookie
 keywords: Java 网络编程 HTTP Cookie
 ---
