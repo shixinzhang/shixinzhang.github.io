@@ -19,9 +19,23 @@ keywords: 电影
 
 # 四月
 
+### 《国家破产之日》
+
+![](https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1555153903978&di=c8847423051448871eff224ad5013622&imgtype=0&src=http%3A%2F%2Fwx4.sinaimg.cn%2Fcrop.0.0.1000.562.1000%2Fde82374fly1fyvl39p5pwj20rs0fmadw.jpg)
+
+这部电影很好的说明了“覆巢之下，焉有完卵”。
+
+底层的个体即使再努力，也难以对抗在国家经济形势大萧条的冲击。
+
+除非，像上图中的 1 2 4 5，站在经济信息的最前端。
+
+我们总是感叹，没有赶在前几年买房，没有赶在前几年买虚拟币，没有赶在股市到达谷底时买入。
+
+【结合网易云课堂那个经济机器是怎么运行的，说说信贷和泡沫】
+
 ### 《Love Death & Robot》 
 
-<image src="https://gss1.bdstatic.com/9vo3dSag_xI4khGkpoWK1HF6hhy/baike/c0%3Dbaike272%2C5%2C5%2C272%2C90/sign=5540070955b5c9ea76fe0bb1b450dd65/d1a20cf431adcbef17d24f04a2af2edda2cc9fc9.jpg" width="250" align=center/>
+![](https://gss1.bdstatic.com/9vo3dSag_xI4khGkpoWK1HF6hhy/baike/c0%3Dbaike272%2C5%2C5%2C272%2C90/sign=5540070955b5c9ea76fe0bb1b450dd65/d1a20cf431adcbef17d24f04a2af2edda2cc9fc9.jpg =200x200)
 
 《爱死亡和机器人》 是 Netflix 出品的 18 集短剧。每个短剧是一个单独的故事，我比较喜欢的是： 
 
@@ -34,7 +48,7 @@ keywords: 电影
 
 ###《小偷家族》
 
-<image src="https://gss0.bdstatic.com/94o3dSag_xI4khGkpoWK1HF6hhy/baike/c0%3Dbaike92%2C5%2C5%2C92%2C30/sign=437382eabb4543a9e116f29e7f7ee1e7/5243fbf2b21193134014a3ae69380cd791238d5d.jpg" width=250 align=center/>
+![](https://gss0.bdstatic.com/94o3dSag_xI4khGkpoWK1HF6hhy/baike/c0%3Dbaike92%2C5%2C5%2C92%2C30/sign=437382eabb4543a9e116f29e7f7ee1e7/5243fbf2b21193134014a3ae69380cd791238d5d.jpg)
 
 开始还以为是一个底层家庭捡了个小女孩。最后才发现，原来这个家庭里的每个人都没有直接的血缘关系，几个人由于各种原生家庭的问题，聚在了一起。奶奶骗了亚纪，妈妈和爸爸一起杀了人，儿子好像是他们砸窗偷东西时“捡的”。就是一个这样的家庭，却给了原生家庭没有给到的爱和温暖。
 
