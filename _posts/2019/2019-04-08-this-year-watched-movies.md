@@ -33,9 +33,11 @@ keywords: 电影
 
 【结合网易云课堂那个经济机器是怎么运行的，说说信贷和泡沫】
 
+话说回来，不仅是经济形势，身为程序员的我们，在所属领域的技术发展形势下，也要保持敏锐的嗅觉，少花时间在垃圾信息花边新闻上，多关注行业大佬、国内外技术方向。
+
 ### 《Love Death & Robot》 
 
-![](https://gss1.bdstatic.com/9vo3dSag_xI4khGkpoWK1HF6hhy/baike/c0%3Dbaike272%2C5%2C5%2C272%2C90/sign=5540070955b5c9ea76fe0bb1b450dd65/d1a20cf431adcbef17d24f04a2af2edda2cc9fc9.jpg =200x200)
+![](https://gss1.bdstatic.com/9vo3dSag_xI4khGkpoWK1HF6hhy/baike/c0%3Dbaike272%2C5%2C5%2C272%2C90/sign=5540070955b5c9ea76fe0bb1b450dd65/d1a20cf431adcbef17d24f04a2af2edda2cc9fc9.jpg)
 
 《爱死亡和机器人》 是 Netflix 出品的 18 集短剧。每个短剧是一个单独的故事，我比较喜欢的是： 
 
