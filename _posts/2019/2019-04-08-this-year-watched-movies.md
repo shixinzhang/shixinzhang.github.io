@@ -19,6 +19,15 @@ keywords: 电影
 
 # 四月
 
+
+### 克隆人
+
+![](https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1556216353224&di=a971694d8ca48b1f6401494be6769dfa&imgtype=0&src=http%3A%2F%2Fp99.pstatp.com%2Flarge%2Fpgc-image%2Fc1bc4992c49b43f3a7473e80cc889886)
+
+### 遗愿清单
+
+![](http://img3.imgtn.bdimg.com/it/u=2502061306,686831045&fm=26&gp=0.jpg)
+
 ### 《国家破产之日》
 
 ![](https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1555153903978&di=c8847423051448871eff224ad5013622&imgtype=0&src=http%3A%2F%2Fwx4.sinaimg.cn%2Fcrop.0.0.1000.562.1000%2Fde82374fly1fyvl39p5pwj20rs0fmadw.jpg)
@@ -37,7 +46,7 @@ keywords: 电影
 
 ### 《Love Death & Robot》 
 
-![](https://gss1.bdstatic.com/9vo3dSag_xI4khGkpoWK1HF6hhy/baike/c0%3Dbaike272%2C5%2C5%2C272%2C90/sign=5540070955b5c9ea76fe0bb1b450dd65/d1a20cf431adcbef17d24f04a2af2edda2cc9fc9.jpg)
+![](https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1556216468892&di=7b059c69fff8642c720a2c7f0af6075c&imgtype=0&src=http%3A%2F%2Fpic4.zhimg.com%2F50%2Fv2-d32c6a483e4cce4c09b4cfc3dadc11cf_hd.jpg)
 
 《爱死亡和机器人》 是 Netflix 出品的 18 集短剧。每个短剧是一个单独的故事，我比较喜欢的是： 
 
