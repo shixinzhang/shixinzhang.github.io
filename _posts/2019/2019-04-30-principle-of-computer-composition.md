@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 极客时间《计算机组成原理》课程笔记
-categories: Computer Foundation
+categories: ComputerFoundation
 description: 学习笔记
 keywords: 计算机组成原理 笔记
 ---
