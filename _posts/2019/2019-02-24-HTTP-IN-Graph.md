@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 《图解 HTTP》读书笔记
-categories: Java 网络编程
+categories: 网络编程
 description: 零碎的笔记还是整理下吧
 keywords: 网络 基础
 ---
