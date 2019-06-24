@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>猜数字</title>
+    <script>
+        const goal = [4, 1, 6, 0];
+        var guestTime = 0;
+        function guess() {
+            var input = document.getElementsByName("my-guess")[0];
+
+            var value = input.value;
+            console.log("input:" + value);
+            var aNumber = 0;
+            var bNumber = 0;
+            var notANumber = 0;
+
+            var notA = [];
+
+            console.log("before check A: " + notA);
+            for (var i = 0; i < 4; i++) {
+                var g = goal[i];
+                var v = value[i];
+                if (g == v) {
+                    aNumber ++;
+                } else {
+                    notA[notANumber++] = g;
+                }
+            }
+            console.log("after check A: " + notA);
+
+            if(aNumber == 4) {
+                alert("全部猜对了！");
+                print("猜测：" + value + ", 结果：正确!!!" )
+                return;
+            }
+
+            for (var i = 0; i < 4; i++) {
+                var v = value[i];
+                for (var j = 0; j < notA.length; j++) {
+                    var g = notA[j];
+                    if (g == v) {
+                        bNumber ++;
+                    }
+                }
+            }
+            console.log("aNumber:" + aNumber + ", bNumber: " + bNumber);
+            var resultStr = aNumber + " A " + bNumber + " B";
+            alert(resultStr);
+
+            print("猜测：" + value + ", 结果：" + resultStr);
+        }
+
+        function print(result) {
+            guestTime++;
+
+            var resultPanel = document.getElementById("result");
+            var para = document.createElement("p");
+            var node = document.createTextNode(guestTime + ". " + result);
+            para.appendChild(node);
+
+            resultPanel.appendChild(para);
+        }
+    </script>
+</head>
+<body>
+<div id="result" style="float: right; background-color: ghostwhite; width: 400px; height: 1000px;margin-right: 100px">
+    <p style="text-align: center">猜测记录</p>
+</div>
+<div style="text-align: center;">
+    <input type="number" placeholder="输入你猜测的四位数字" name="my-guess">
+    <button onclick="guess()">确定</button>
+</div>
+
+</body>
+</html>
