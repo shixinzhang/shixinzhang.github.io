@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 2019 年看过的电影
+title: 2019 年看过的电影、电视剧、综艺
 categories: BookAndMovie
 description: 简单记录下看过的电影
 keywords: 电影
@@ -22,23 +22,40 @@ keywords: 电影
 
 ### 美丽人生
 
+![](https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1561351750087&di=70abfbb2746fae8dfc16a3708eb073d3&imgtype=0&src=http%3A%2F%2Ftxt25-2.book118.com%2F2017%2F0703%2Fbook119961%2F119960574.jpg)
+
 乐观、积极、顽皮
 
 ### 马粥街残酷史
 
-### 天龙特工队
+![](https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1561351677032&di=592209ac9a985f69665a93dde7879e42&imgtype=0&src=http%3A%2F%2Fmmbiz.qpic.cn%2Fmmbiz_jpg%2FfSFq1cJBib4KTj3STcS66u4g7aFPJmcxJVyOQzdQ26XDN6ibQV0WpJcOpz9tia1VAbMJcPhM7jbcO3iaEDjE7kqB7g%2F640%3Fwx_fmt%3Djpeg)
 
-### 这！就是街舞
+### 天龙特供队
+
+![](https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1561351425355&di=2e04ca2ac6b6f6bb2c9590a1a020ead2&imgtype=0&src=http%3A%2F%2Fimg3.fengniao.com%2Falbum%2Fupload%2F2%2F203%2F40431%2F8086037.jpg)
 
 # 五月
 
 ### 老友有钱
 
+![](https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1561351239608&di=10b66e2a16711f16e92c5fed7fd1d9a8&imgtype=0&src=http%3A%2F%2Fimages.china.cn%2Fsite1000%2F20070416%2F00114320dfe1078d833601.jpg)
+
+### 《这就是街舞》
+
+![](https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1561351391046&di=09ed0d1845d57ececfdd5707b49e97eb&imgtype=0&src=http%3A%2F%2F5b0988e595225.cdn.sohucs.com%2Fimages%2F20190521%2F5138edfc8b8844b6b0229e20dbbf36f4.jpeg)
+
+舞出人生
+
+
 ###《老师！好》
+
+![](https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1561351356385&di=6fa75058d2accca31c60f7ec54fbe0b8&imgtype=0&src=http%3A%2F%2Fn.sinaimg.cn%2Fsinacn20190515s%2F133%2Fw560h373%2F20190515%2F3732-hwzkfpu2222520.jpg)
 
 除了结尾，还可以。
 
 ###《海市蜃楼》
+
+![](https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1561351277472&di=c8d211ea408877cf43371b9a82ffaa5f&imgtype=0&src=http%3A%2F%2Fwx1.sinaimg.cn%2Flarge%2F007EcP9Xly1g1g2sfr0b2j30u00u0qv6.jpg)
 
 一个女子在搬进新家后，偶然发现通过之前住户遗留的电视机，居然可以和过去的住户说话，从而改变了现实。
 
