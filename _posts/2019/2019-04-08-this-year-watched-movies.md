@@ -40,20 +40,20 @@ keywords: 电影
 
 ![](https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1561351239608&di=10b66e2a16711f16e92c5fed7fd1d9a8&imgtype=0&src=http%3A%2F%2Fimages.china.cn%2Fsite1000%2F20070416%2F00114320dfe1078d833601.jpg)
 
-### 《这就是街舞》
+### 这!就是街舞
 
 ![](https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1561351391046&di=09ed0d1845d57ececfdd5707b49e97eb&imgtype=0&src=http%3A%2F%2F5b0988e595225.cdn.sohucs.com%2Fimages%2F20190521%2F5138edfc8b8844b6b0229e20dbbf36f4.jpeg)
 
 舞出人生
 
 
-###《老师！好》
+### 老师！好
 
 ![](https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1561351356385&di=6fa75058d2accca31c60f7ec54fbe0b8&imgtype=0&src=http%3A%2F%2Fn.sinaimg.cn%2Fsinacn20190515s%2F133%2Fw560h373%2F20190515%2F3732-hwzkfpu2222520.jpg)
 
 除了结尾，还可以。
 
-###《海市蜃楼》
+### 海市蜃楼
 
 ![](https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1561351277472&di=c8d211ea408877cf43371b9a82ffaa5f&imgtype=0&src=http%3A%2F%2Fwx1.sinaimg.cn%2Flarge%2F007EcP9Xly1g1g2sfr0b2j30u00u0qv6.jpg)
 
@@ -107,7 +107,7 @@ keywords: 电影
 - 也没有完全是为别人而活吧
 - 学习、工作，主要是为了让自己更强大
 
-### 《国家破产之日》
+### 国家破产之日
 
 ![](https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1555153903978&di=c8847423051448871eff224ad5013622&imgtype=0&src=http%3A%2F%2Fwx4.sinaimg.cn%2Fcrop.0.0.1000.562.1000%2Fde82374fly1fyvl39p5pwj20rs0fmadw.jpg)
 
@@ -123,7 +123,7 @@ keywords: 电影
 
 话说回来，不仅是经济形势，身为程序员的我们，在所属领域的技术发展形势下，也要保持敏锐的嗅觉，少花时间在垃圾信息花边新闻上，多关注行业大佬、国内外技术方向。
 
-### 《Love Death & Robot》 
+### Love Death & Robot
 
 ![](https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1556216468892&di=7b059c69fff8642c720a2c7f0af6075c&imgtype=0&src=http%3A%2F%2Fpic4.zhimg.com%2F50%2Fv2-d32c6a483e4cce4c09b4cfc3dadc11cf_hd.jpg)
 
@@ -138,7 +138,7 @@ keywords: 电影
 
 
 
-###《小偷家族》
+### 小偷家族
 
 ![](https://gss0.bdstatic.com/94o3dSag_xI4khGkpoWK1HF6hhy/baike/c0%3Dbaike92%2C5%2C5%2C92%2C30/sign=437382eabb4543a9e116f29e7f7ee1e7/5243fbf2b21193134014a3ae69380cd791238d5d.jpg)
 
