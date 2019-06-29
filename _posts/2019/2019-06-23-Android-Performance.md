@@ -80,7 +80,8 @@ keywords: Android 性能 优化
 **可以看到，图片放置的目录密度越高，缩放后图片分辨率相对越小，所以我们开发中尽量将图片放置到高 dpi 的目录。**
 
 - LruCache
-- DiskLruCache P57
+- DiskLruCache
+- ``BlobCache`` P57
 
 # 网络
 
