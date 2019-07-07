@@ -8,6 +8,8 @@ keywords: Android 性能 优化
 
 魔鬼藏于细节之中，每一段粗心的代码都可能影响软件的性能，本文主要记录一些不那么常见的性能优化知识点。
 
+![在这里插入图片描述](https://img-blog.csdnimg.cn/201907072159349.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9zaGl4aW4uYmxvZy5jc2RuLm5ldA==,size_16,color_FFFFFF,t_70)
+
 # 磁盘 I/O
 
 每次打开、读写文件，操作系统需要从用户态切换到内核态，这种状态切换很消耗性能。
