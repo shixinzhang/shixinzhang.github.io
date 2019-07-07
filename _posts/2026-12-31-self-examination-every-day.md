@@ -49,6 +49,15 @@ KPT(Keputo)方法，来如何呈述你一天/周的工作
 
 完成一个简单的新闻网站，分类、列表、详情页
 
+## 8 月
+
+八月计划：
+
+1. ife 学到第 XX 天，做简单笔记（每天都得看一点）
+2. SpringMVC 那本书看起来！动手实践
+
+>https://liuyanzhao.com/ 学习这个后端做的事
+
 ## 7 月
 
 七月计划：
@@ -63,9 +72,13 @@ KPT(Keputo)方法，来如何呈述你一天/周的工作
 
 ### 2019年7月7日 周日
 
-用动画的形式呈现解LeetCode题目的思路: https://github.com/MisterBooo/LeetCodeAnimation
+1.用动画的形式呈现解LeetCode题目的思路: https://github.com/MisterBooo/LeetCodeAnimation
 
 这个网站也不错：https://visualgo.net/en
+
+2.https://github.com/saysky/ForestBlog
+
+学习后端开发的例子
 
 ## 6 月
 
