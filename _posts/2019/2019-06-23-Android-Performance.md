@@ -52,17 +52,28 @@ DB 文件和普通文件本质上一样，优化数据库最终也是要减少�
 
 优化表结构、使用索引、增加缓存、调整 page-size
 
-慎用 ``AUTOINCREMENT``
+**慎用 ``AUTOINCREMENT``**
 
 主键就是行号，不使用自增，被删掉的行，还可以复用。
 
 使用它后，只能使用行号大于之前的行，而且需要另外维护一张 ``sql_sequence`` 表，导致插入性能降低。
 
+**缓存数据库连接**
+
+数据库在打开后，先不要关闭，在 app 退出时再关闭。
+
 ### 3.SharedPreferences 延迟写入
 
 每调用一次 ``SharedPreferences.commit()`` 就对应一次文件的打开、关闭。
 
-多次 SP 操作，最好避免多次 ``commit``
+**多次 SP 操作，最好避免多次 ``commit``**
+
+**建议用 ``apply()`` 代替 ``commit``：**
+
+- ``apply`` 是异步操作
+- ``commit`` 是同步操作
+
+建议提前初始化 SP，初始化过程的 I/O 在主线程。
 
 ### 4.用对 Java I/O API
 
@@ -135,6 +146,30 @@ Buffer 容量太大，会导致申请 Buffer 的时间变长；太小会导致 I
 
 2.``decode`` 图片优先使用 ``BitmapFactory.decodeStream()`` 并且使用 ``BufferInputStream`` 做缓存，降低读取磁盘次数，减少耗时。
 
+### 6.压缩文件的 API
+
+- ``ZipFile``
+- ``ZipInputStream``
+
+``ZipFile`` 优势场景：
+
+1. 文件已在磁盘上
+2. 须全部解压
+3. 随机访问
+
+其他场景使用 ``ZipInputStream``。
+
+### 7.解码图片使用 ``decodeStream`` 优于 ``decodeFile``
+
+``BitmapFactory`` 解码图片时，决定写磁盘次数的是调用 native 方法 ``nativeDecodeStream`` 的次数，普通文件流会调用多次，而缓存文件流则会少很多。
+
+``BitmapFactory.decodeFile()`` 生成的文件流是 ``FileInputStream``，无法修改；``BitmapFactory.decodeStream()`` 可以传递一个 ``BufferedInputStream`` 进去：
+
+```
+BufferedInputStream  bis = new BufferedInputStream(new FileInputStream(filePath))
+
+Bitmap bitmap = BitmapFactory.decodeStream(bis, null, ops);
+```
 
 ## 工具
 
