@@ -17,6 +17,24 @@ keywords: 电影
 
 ------------
 
+# 七月
+
+### 菊次郎的夏天
+
+![](http://img3.doubanio.com/view/thing_review/l/public/p1552150.jpg)
+
+帮助别人的过程，也是在帮助自己。 
+
+### 愤怒的黄牛
+
+![](https://ss1.bdstatic.com/70cFvXSh_Q1YnxGkpoWK1HF6hhy/it/u=1514273175,2021253886&fm=26&gp=0.jpg)
+
+马东锡
+
+### 恶人传
+
+![](https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1563112613180&di=f8927b9a788199d4a140baaedb024a10&imgtype=0&src=http%3A%2F%2Fi0.hdslb.com%2Fbfs%2Farticle%2F0933defcbace3b521b782d152c0f964c78118b6a.jpg)
+
 # 六月
 
 
