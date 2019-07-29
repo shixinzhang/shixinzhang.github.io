@@ -32,9 +32,11 @@ keywords: 思考，反馈
  - 性能优化（一个月）
 2. 前端
  - 掌握 React 和常用库，可以画个人网站界面（一个月）
+ - [手把手从0打造电商平台-前端开发](https://coding.imooc.com/class/package/109.html)
  - 基本掌握 JavaScript 的使用（一个月）
 3. 后端
  - SpringMVC 的使用掌握了，可以提供 个人网站需要的接口，部署上线（两个月）
+ - 练习完书上的例子，买 [从0开始 独立完成企业级Java电商网站开发(服务端)](https://coding.imooc.com/class/package/96.html)
 4. 爬虫 
  - Python 爬虫，爬取需要的数据（一个月）
 
@@ -58,7 +60,7 @@ keywords: 思考，反馈
 
 1. Java 开发接口 最后一部分实践完成（选一个周末全天做）
 2. SpringMVC 那本书 100%
-3. 《原则》或者其他一本非技术书，至少 50%，做简单笔记
+3. ~~原则或者其他一本非技术书，至少 50%，做简单笔记~~
 4. Android 移动性能实战总结成文字，发表到 CSDN
 5. 恢复每天一小结的习惯
 
@@ -82,6 +84,11 @@ keywords: 思考，反馈
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20190729223218751.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9zaGl4aW4uYmxvZy5jc2RuLm5ldA==,size_16,color_FFFFFF,t_70)
 
 4.之前那个《风味人间》，和bbc联合打造的《行星》《王潮》，还有好雨知时工作室的《和陌生人说话》《我和我的时代》《十三邀》都很好
+
+5.练习完书上的例子，买这两个课程
+
+- [从0开始 独立完成企业级Java电商网站开发(服务端)](https://coding.imooc.com/class/package/96.html)
+- [手把手从0打造电商平台-前端开发](https://coding.imooc.com/class/package/109.html)
 
 ### 2019年7月28日 周日
 
