@@ -7,9 +7,13 @@ keywords: 后端学习 笔记 官方文档 JavaWeb
 ---
 
 
+Spring 泛指整个 Spring 框架所提供的各种开源库，spring-core 是基础，在其上提供了 messaging, transactional data and persistence, and web（Spring MVC 和 Spring WebFlux ）等模块。
+
 
 - https://docs.spring.io/spring/docs/current/spring-framework-reference/index.html
 
+
+服务器软件 Tomcat 8 and 9, WebSphere 9, and JBoss EAP 7
 
 
 # IOC 容器
