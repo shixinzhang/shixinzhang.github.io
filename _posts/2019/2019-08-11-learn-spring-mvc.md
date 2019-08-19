@@ -1,8 +1,8 @@
 ---
 layout: post
-title: SpringBoot 笔记
+title: SpringMVC 笔记
 categories: JavaWeb
-description:  SpringBoot 笔记
+description:  SpringMVC 笔记
 keywords: 后端
 ---
 

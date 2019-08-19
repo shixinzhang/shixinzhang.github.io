@@ -24,10 +24,14 @@ keywords: Android 性能 监控 优化
 - 模块做成熟，就可以加入现有的二方库给其他app来使用，适合的话最后会加入到apm线上平台来监控
 - 这是一个很好的锻炼机会，可以了解不少android底层知识
 
-# 大厂性能优化分享
+# 性能优化分享实践
 
+- [极客时间 Android 高手课 代码](https://github.com/AndroidAdvanceWithGeektime)
 - [手淘启动优化](https://mp.weixin.qq.com/s/PiqnHezWKWUU0byEhrboRg)
-
+- [手Q Android线程死锁监控与自动化分析实践](https://cloud.tencent.com/developer/article/1064396)
+- [pf分享的安卓网络超时原因分析文章，这个人的专栏挺不错的](https://zhuanlan.zhihu.com/p/31640388)
+- [Android的死机、重启问题分析方法](http://www.itkeyword.com/doc/816470999526841x714)
+- [总结了很多性能优化相关的知识点](https://baiqiantao.github.io/%E4%BC%98%E5%8C%96/Efeiey/)
 
 # 性能指标
 
