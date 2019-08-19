@@ -58,6 +58,8 @@ keywords: 思考，反馈
 5. 8 月后端掌握扎实（书例子敲完，总结收获，看看官方文档和买个慕课视频，部署服务器也得了解下）
 
 
+![](https://img-blog.csdn.net/20180730015504313?watermark/2/text/aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3UwMTEyNDA4Nzc=/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70)
+
 ## 9 月
 
 九月计划：
