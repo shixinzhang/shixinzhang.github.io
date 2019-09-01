@@ -24,6 +24,7 @@ keywords: 领导 leader
 
 ## 优秀文章
 
+- [从求生存到修体系，我在阿里找到了技术人的成长模式](https://mp.weixin.qq.com/s/x1qIaTHaSYjTZL5uYxDX4w)
 - [白鸦内部培训：企业服务类产品的底层逻辑，和“有赞产品设计原则”](https://mp.weixin.qq.com/s/-kLQPDU-9337mN1ebjuYqA)
 - [家郴写的产品经理技能树](https://mp.weixin.qq.com/s/14KA5IVIsKd6Ux6LvdY-OA)
 - [“升职靠业务，跳槽靠技术？”阿里技术专家谈职场晋升](https://mp.weixin.qq.com/s/6so59OQ4GcDb4uYgiPhCOQ)
