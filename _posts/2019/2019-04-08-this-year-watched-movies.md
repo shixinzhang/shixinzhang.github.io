@@ -17,6 +17,17 @@ keywords: 电影
 
 ------------
 
+# 九月
+
+### 扫毒2
+
+![](https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1568544767802&di=73803c5329cf32f321ee42fde8305cfc&imgtype=0&src=http%3A%2F%2Fwx1.sinaimg.cn%2Flarge%2F005Az6sjly1g3janhfu0dj31hc0u0q4t.jpg)
+
+印象比较深刻的点是顺天的家庭矛盾，第一个女友的离开，后来妻子受不了隐藏秘密的离婚，都和他的黑道背景有关。
+
+还有地藏的孤独，无爱的性，内心的恨让他心里容不下爱，成了孤家寡人。
+
+
 # 八月
 
 ### 沉默的证人
