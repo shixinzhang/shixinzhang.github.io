@@ -34,6 +34,10 @@ keywords: Android 性能 监控 优化
 - [总结了很多性能优化相关的知识点](https://baiqiantao.github.io/%E4%BC%98%E5%8C%96/Efeiey/)
 - [应用与系统稳定性系列](https://www.jianshu.com/u/ce54e5c21032)
 
+开源库：
+
+- Argusapm、Booster、Matrix
+
 # 性能指标
 
 1.流畅度：FPS 均值大于 30，最小值大于 24

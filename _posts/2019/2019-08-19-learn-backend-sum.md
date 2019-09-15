@@ -8,7 +8,13 @@ keywords:
 
 这里放关于学习后端整体需要想和学的东西。
 
-[具体的某个后端知识点的学习笔记](https://shixinzhang.top/categories/#JavaWeb)
+- [我的、具体的某个后端知识点的学习笔记](https://shixinzhang.top/categories/#JavaWeb)
+- [CR 大佬推荐的文档](https://www.chkui.com/article/spring/spring_core_design_pattern_and_ioc)
+
+# 前辈经验
+
+早上遇到大佬 CR，聊了下后端学习方向，他的建议是：SpringMVC 和 SpringBoot 只是 API，关键先要理解 Servlet 和 Spring 执行原理，官方文档先看中文的。
+
 
 # 入门阶段
 
@@ -34,6 +40,11 @@ keywords:
 >Java 后端有着非常庞大的生态圈，也涉及到很多复杂的问题，如分布式事务、分布式查询、微服务、高并发、容灾、容器化等等，涉及到的技术栈和框架就更多了。不过，我们目前只是为了快速入门，我们只会学习最必要的那些知识，能支撑到我们进行实际项目的开发即可。那么，我们需要学习的核心知识主要包括 Java、Servlet、JDBC、MySQL、Redis、Spring、MyBatis 等
 >
 >[快速入门Java后端开发的正确姿势](https://mp.weixin.qq.com/s/r3vuy71dXIbiIgGscsjz5g)
+
+
+写的过程中出现一些问题，基本上是照书抄的不仔细。
+
+还有整个流程得整理下，每个功能点涉及到的，不能照着做不思考。
 
 # 熟练阶段
 
