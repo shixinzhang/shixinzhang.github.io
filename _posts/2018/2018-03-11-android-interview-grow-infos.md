@@ -29,6 +29,12 @@ keywords: 安卓 面试 资料
 
 用MultiDex解决何事？其根本原因在于？Dex如何优化？主Dex放哪些东西？主Dex和其他Dex调用、关联？Odex优化点在于啥？Dalvik和Art虚拟机区别？多渠道打包如何实现（Flavor、Dimension应用）？从母包生出渠道包实现方法？渠道标识替换原理？
 
+### Java
+
+Java中为什么静态方法不能被重写
+
+https://blog.csdn.net/dawn_after_dark/article/details/74357049
+
 ### 并发
 
 ### 网络
